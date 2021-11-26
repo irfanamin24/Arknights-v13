@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- calendar -->
+<Icon version="1" frameRate="1" width="200" height="200" screenWidth="1080" useVariableUpdater="DateTime.Day"> 
+
+  
+  <Image x="100" y="100" align="center" alignV="center" src="bg.png"/>    
+
+    <ImageNumber  x="100" y="100" number="#date" src="d.png" align="center" alignV="center" space="2"/>
+
+	
+</Icon>

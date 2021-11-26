@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+	
+<color name="progressPrimaryColor">#FFFFFFFF</color>
+<color name="progressDisableColor">#acdedede</color>
+<color name="progressDisableColorLight">#acdedede</color>
+	
+<dimen name="preference_item_padding_inner">5.000000dp</dimen>
+<dimen name="preference_item_padding_top">3.000000dp</dimen>
+<dimen name="preference_item_padding_bottom">3.000000dp</dimen>
+
+<color name="accent_device_default_dark">#ffffff00</color>
+<color name="sliding_button_bar_on_dark">#00000000</color>
+
+<color name="checked_text_dark">#FFFFFFFF</color>
+<color name="action_bar_title_text_color_dark">#FFFFFFFF</color>
+
+<color name="edit_text_search_hint_color_dark">#FFFFFFFF</color>
+<color name="account_info_summary">#FFFFFFFF</color>
+
+<color name="highlight_normal_dark">#FFFFFFFF</color>
+<color name="highlight_pressed_dark">#FFFFFFFF</color>
+<color name="highlight_disabled_dark">#FFFFFFFF</color>
+
+<color name="action_mode_title_text_color_dark">#FFFFFFFF</color>
+<color name="list_secondary_text_color_disable_dark">#FFFFFFFF</color>
+<color name="dropdown_popup_list_text_color_disabled_dark">#FFFFFFFF</color>
+
+<color name="progress_percent_color">#FFFFFFFF</color>
+<color name="progressPrimaryColorLight">#FFFFFFFF</color>
+<color name="progressbar_color_dark">#FFFFFFFF</color>
+
+<color name="bright_foreground_dark" package="miui">#FFFFFFFF</color><!--judul card devices-->
+
+<color name="numberpicker_highlight_text">#FFFFFFFF</color>
+<color name="numberpicker_label">#FFFFFFFF</color>
+
+<color name="edit_text_color_dark">#FFFFFFFF</color>
+<color name="list_text_color_disable_dark">#FFFFFFFF</color>
+<color name="list_text_color_normal_dark">#FFFFFFFF</color>
+<color name="list_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="list_secondary_text_color_normal_dark">#FFFFFFFF</color>
+<color name="list_secondary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="edit_text_search_hint_color_dark">#FFFFFFFF</color>
+<color name="text_edit_action_popup_text_normal">#FFFFFFFF</color>
+<color name="preference_primary_text_color_dark">#FFFFFFFF</color>
+<color name="preference_primary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="preference_primary_text_color_disable_dark">#FFFFFFFF</color>
+<color name="preference_secondary_text_color_dark">#FFFFFFFF</color>
+<color name="preference_secondary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="preference_secondary_text_color_checked_dark">#FFFFFFFF</color>
+<color name="preference_category_text_color_dark">#ff5b5b5b</color>
+<color name="list_view_item_group_header_text_dark">#ff5b5b5b</color>
+<color name="menu_list_text_color_normal_dark">#FFFFFFFF</color>
+<color name="menu_list_text_color_disabled_dark">#FFFFFFFF</color>
+<color name="preference_secondary_text_color_disable_dark">#FFFFFFFF</color>
+
+<color name="miuix_appcompat_checkbox_btn_disable_background_color_dark">#FFFFFFFF</color>
+<color name="miuix_appcompat_checkbox_btn_on_background_color_dark">#FFFFFFFF</color>
+<color name="miuix_appcompat_checkbox_btn_on_foreground_color_dark">#FFFFFFFF</color>
+<color name="miuix_appcompat_checkbox_btn_stroke_color_dark">#FFFFFFFF</color>
+<color name="miuix_appcompat_dialog_checkbox_text_color_dark">#FFFFFFFF</color>
+
+<color name="people_item_select_checkbox_stroke">#FFA1E337</color>
+    
+<color name="checkbox_btn_disable_background_color_dark">#FFFFFFFF</color>
+<color name="checkbox_btn_on_background_color_dark">#FFFFFFFF</color>
+<color name="checkbox_btn_on_foreground_color_dark">#FFFFFFFF</color>
+<color name="checkbox_btn_stroke_color_dark">#FFFFFFFF</color>
+
+<!-- Text color in action bar buttons -->
+<color name="action_bar_tab_text_color_disable_dark">#FFFFFFFF</color>
+<color name="action_bar_tab_text_color_selected_dark">#fff07bbb</color>
+<color name="action_bar_tab_text_color_normal_dark">#FFFFFFFF</color>
+
+
+</MIUI_Theme_Values>

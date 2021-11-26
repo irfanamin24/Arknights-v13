@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="pm_dialog_item_normal">#ff212121</color>
+<color name="perm_selected_dark">#ff212121</color>
+<color name="pc_activity_new_action_bar_bg">#ff212121</color>
+<color name="pc_list_item_bg_normal">#ff212121</color>
+<color name="na_action_bar_blue">#00212121</color>
+<color name="v_bg_color">#ff212121</color>
+<color name="color_gb_add_game_item_header_bg">#00212121</color>
+<color name="miuix_preference_white">#00212121</color>
+<color name="transparent" package="miui">#ff212121</color>
+
+<color name="black" package="miui">#00212121</color>
+<color name="black">#00212121</color>
+<color name="miuix_preference_black">#00212121</color>
+<color name="applock_guide_anim_bg_color">#00212121</color>
+<color name="pc_activity_action_bar_bg">#00212121</color>
+<color name="pc_battery_item_normal_color">#00212121</color> 
+<color name="pc_list_item_bg_pressed">#00212121</color>
+<color name="storage_activity_main_bg">#00212121</color>
+<color name="storage_app_detail_bg">#00212121</color>
+<color name="storage_main_top_title_bg">#00212121</color>
+<color name="gb_wonderful_video_float_record_bg">#00212121</color>
+<color name="pc_normal_item_pressed_background">#00212121</color>
+<color name="app_manager_drop_item_pressed_color">#00212121</color>
+<color name="pm_setting_chart_bg">#00212121</color>
+<color name="app_manager_drop_item_selected_color">#00212121</color>
+<color name="app_manager_drop_item_normal_color">#00212121</color>
+<color name="v_background_color">#00212121</color>
+<color name="pc_main_card_split_line_color">#00212121</color>
+<color name="pc_main_activity_background_color">#00212121</color>
+<color name="pc_normal_item_background">#00212121</color>
+<color name="app_behavior_list_head_bg">#00212121</color>
+<color name="app_manager_line_bg_color">#00212121</color>
+<color name="color_gb_item_main_bg">#00212121</color>
+<color name="transparent" package="android">#00212121</color>
+<color name="v_activity_main_bg">#00212121</color>
+<color name="gamebox_list_divide_h">#00212121</color>
+<color name="gamebox_list_divide_v">#00212121</color>
+
+<color name="na_card_bg">#ff212121</color>
+<color name="pc_battery_statics_chart_color_to">#00212121</color>
+<color name="pinned_header_separator_line_light">#00212121</color>
+<color name="pc_main_page_button_background">#00212121</color>
+<color name="white" package="miui">#00212121</color>
+<color name="pc_deep_result_line_background">#00212121</color>
+<color name="first_aid_kit_bgcolor">#00212121</color>
+<color name="game_top_content_bg">#00212121</color>
+<color name="app_manager_white">#00212121</color>
+<color name="na_white_00">#00212121</color>
+<color name="miuix_sbl_transparent">#00212121</color>
+<color name="activity_optimize_handle_bg_orange">#00212121</color>
+<color name="activity_optimize_handle_bg_green">#00212121</color>
+<color name="blackalpha0">#00212121</color>
+<color name="op_activity_white_list_cache_color_hint">#00212121</color>
+<color name="v_activity_white_list_cache_color_hint">#00212121</color>
+<color name="app_manager_default_bg_color">#00212121</color>
+<color name="om_memory_clean_cleaned">#00212121</color>
+<color name="om_memory_clean_need_clean_suggest">#00212121</color>
+<color name="pc_power_center_signal_strength_0">#00212121</color>
+<color name="text_color_white_95">#00212121</color>
+<color name="pm_setting_divider_color">#00212121</color> 
+<color name="pp_warning_msg_bg_color">#00212121</color> 
+<color name="pp_warning_msg_bg_unable_color_ll">#00212121</color> 
+<color name="storage_app_detail_divider">#00212121</color>
+<color name="transparent">#00212121</color>
+
+<!--miui12-->
+<color name="black" package="android">#ff212121</color>
+<color name="applock_list_view_header">#ff212121</color>
+<color name="ew_bg_color">#ff212121</color>
+<color name="ew_list_split_button_bg_normal">#ff212121</color>
+<color name="first_aid_kit_bgcolor">#ff212121</color>
+<color name="home_page_white_circle_bg">#00212121</color>
+<color name="line_card_bg">#ff212121</color>
+<color name="lucky_alarm_content_bkgcolor">#ff212121</color>
+<color name="lucky_bkg_color">#ff212121</color>
+<color name="lucky_settings_background_color">#ff212121</color>
+<color name="na_bg">#ff212121</color>
+<color name="na_nd_bg">#ff212121</color>
+<color name="pm_activity_root_apply_background">#ff212121</color> 
+<color name="pc_main_scan_backgound_color">#00212121</color>
+<color name="qr_instruction_background">#ff212121</color>
+<color name="securityscan_bgcolor">#00212121</color> 
+
+<color name="card_bg_color">#00212121</color> 
+<color name="pc_main_card_border_whole_color">#ff212121</color> 
+<color name="main_btn_blue_bg_normal">#99212121</color> 
+<color name="main_btn_blue_bg_yellow_normal">#99212121</color> 
+
+<color name="activity_optimize_main_green">#00212121</color>
+<color name="pc_deep_result_button_display">#80212121</color>
+<color name="mountain_bgcolor_danger_transparent">#ff212121</color>
+<color name="pc_power_center_signal_strength_0">#00000000</color>
+<color name="pc_battery_statics_bg_color">#00000000</color>
+
+<color name="pc_battery_statics_change_menu_pop_normal">#ff212121</color>
+<color name="home_page_score_start_color">#ff212121</color>
+<color name="home_page_score_end_color">#ff212121</color>
+<color name="nd_speed_dial_bg_color">#ff212121</color>
+<color name="pc_battery_consume_analysis_background">#00212121</color>
+<color name="pc_main_battery_view_background_higher_20">#80212121</color>
+
+<color name="pc_battery_detail_pop_window_background_select_">#ff212121</color>
+<color name="pc_battery_detail_pop_window_background_select">#ff212121</color>
+
+<color name="pp_video_white">#00212121</color> 
+<color name="pm_setting_chart_blue_new">#ff212121</color>
+<color name="micloud_storage_background">#ff212121</color>
+<color name="MediumAquamarine">#00000000</color>
+<color name="bg_color">#00212121</color>
+
+ <color name="color_dc_storage_total">#ff80A3B0</color><!--storage main space bar-->
+ <color name="color_dc_storage_used_not_trash">#ff808080</color>
+
+<!--more-->
+<color name="app_manager_line_bg_color">#00000000</color>
+<color name="miuix_appcompat_sliding_btn_slider_off_normal_color_light">#00000000</color>
+<color name="miuix_appcompat_sliding_btn_slider_off_pressed_color_light">#00000000</color>
+
+<color name="miuix_appcompat_sliding_btn_slider_on_normal_color_light">#00000000</color>
+<color name="miuix_appcompat_sliding_btn_slider_on_pressed_color_light">#00000000</color>
+
+<color name="miuix_appcompat_sliding_button_bar_off_dark">#00000000</color> 
+<color name="miuix_appcompat_sliding_button_bar_off_light">#00000000</color> 
+
+<color name="miuix_appcompat_sliding_button_bar_on_dark">#00000000</color> 
+<color name="miuix_appcompat_sliding_button_bar_on_light">#00000000</color> 
+
+<color name="miuix_appcompat_sliding_button_bg_border_color">#00000000</color> 
+<color name="miuix_appcompat_black">#00000000</color> 
+
+<!-- miui 12 -->
+<dimen name="optimizing_processbar_size">20dp</dimen> 
+<dimen name="am_sperator_line_margin_bottom">0.0dip</dimen> 
+<dimen name="am_main_top_icon_margin_top">2.0dip</dimen> 
+<dimen name="am_sperator_line_margin_top">0.0dip</dimen> 
+<dimen name="am_details_action_margin_top">13.0dip</dimen> 
+<dimen name="am_details_top_height">80.0dip</dimen> 
+<dimen name="am_details_top_icon_margin_top">0.0dip</dimen>
+<!--storage_app-->
+<dimen name="storage_app_details_item_ps_pe">26.0dp</dimen>
+<dimen name="am_function_list_line_height">0.0dip</dimen>
+<dimen name="am_line_margin_lr">15.0dip</dimen> 
+<dimen name="view_dimen_60">0.0dip</dimen>
+<dimen name="storage_app_details_item_line_h">0.0dip</dimen>
+<dimen name="phone_manage_card_summary_size">10.0sp</dimen>
+<dimen name="small_result_blue_button_text_size">12.0sp</dimen>
+<dimen name="firewall_button_group_width">90.0dip</dimen>
+<dimen name="firewall_button_group_width_half">40.0dip</dimen> 
+
+<!--scan on start page video-->
+<dimen name="main_contentview_height">400dp</dimen> 
+<dimen name="main_contentview_margin_top">3.329987dp</dimen> 
+<dimen name="main_contentview_transition_y">21.699984dp</dimen> 
+<dimen name="main_contentview_transition_y_end">2dp</dimen>
+
+<dimen name="status_bar_textsize">10sp</dimen> 
+<!--optimization button on the main-->
+<dimen name="hp_action_btn_bg_radius">13dp</dimen> 
+<dimen name="hp_action_btn_height">26dp</dimen> 
+<dimen name="hp_action_btn_width">100dp</dimen> 
+<dimen name="btn_action_textsize">12sp</dimen>
+
+<!--optimization-->
+<dimen name="om_main_top_height">00.0dp</dimen> 
+<dimen name="om_optimize_layout_margin_top">140dp</dimen> 
+
+<!--antivirus-->
+<dimen name="antivirus_scan_item_height">44.0dp</dimen> 
+<dimen name="antivirus_scan_item_margin_horizon">24</dimen>
+<dimen name="antivirus_result_list_first_item_height">202dp</dimen>
+
+<!--test-->
+<!--<dimen name="pc_power_history_chart_line_shadow_radius">0.0dp</dimen>
+<dimen name="pc_power_history_chart_line_shadow_radius_small">0.0dp</dimen>
+<dimen name="pc_power_history_histogram_item_radius">0.0dp</dimen>
+<dimen name="pc_scanning_analysis_card_border_radius_size">0.0dp</dimen>-->
+
+<dimen name="pc_power_history_chart_line_shadow_y">0.0dp</dimen> 
+
+<!--in sms blacklist-->
+<dimen name="miuix_preference_checkable_item_mask_padding_top">5dp</dimen>
+<dimen name="miuix_preference_checkable_item_mask_padding_bottom">5dp</dimen> 
+<dimen name="miuix_preference_checkable_item_mask_padding_start">-15dp</dimen>
+<dimen name="miuix_preference_checkable_item_mask_padding_end">0dp</dimen> 
+
+<dimen name="miuix_preference_checkable_item_mask_radius">6.0dp</dimen>
+
+<color name="pc_battery_result_card_bg">#00000000</color>
+<color name="pc_main_battery_last_highlight_color">#ff80A3B0</color>
+<color name="pc_main_battery_view_background_higher_20">#ff80A3B0</color>
+<color name="pc_main_battery_view_background_lower_20">#ff80A3B0</color>
+<color name="pc_main_battery_view_background_save_mode">#00000000</color>
+
+<!--dimens_new_security-->
+<dimen name="view_dimen_96">16dp</dimen>
+<dimen name="list_preferred_item_height_small">30dp</dimen>
+<dimen name="text_font_size_40">12sp</dimen>
+<color name="notification_common_action_bg">#26ffffff</color>
+<color name="notification_common_action_btn">#ffffffff</color>
+	
+<color name="pc_battery_statics_chart_color_normal">#ff80A3B0</color>
+<color name="pc_battery_statics_chart_color_normal_alpha">#ffcccccc</color>
+<color name="pc_battery_statics_chart_color_normal_outside">#ffcccccc</color>
+<color name="pc_battery_statics_chart_color_default">#ff80A3B0</color>
+<color name="pc_battery_statics_chart_color_consume_fast">#ffff0000</color>
+<color name="pc_battery_statics_chart_color_consume_fast_outside">#ffff0000</color>
+<color name="pc_battery_statics_chart_color_chargeimg_normal">#ffcccccc</color>
+<color name="pc_battery_statics_chart_color_chargeimg_charge">#ff80A3B0</color>
+<color name="pc_battery_statics_chart_color_charge_outside">#ffff0000</color>
+<color name="pc_battery_statics_chart_color_charge">#ff80A3B0</color>
+	
+<color name="result_process_title_color">#80cccccc</color>
+<color name="om_clean_memory_text_color">#80cccccc</color>
+<color name="om_clean_unit_text_color">#ffcccccc</color>
+<color name="om_clean_memory_size_tip_color">#ff80A3B0</color>
+<color name="activity_title_color">#ff80A3B0</color>
+<color name="om_optimzing_summary_color">#ff80A3B0</color>
+<color name="om_list_item_summary_color">#ff80A3B0</color>
+<color name="applock_list_header_text">#80cccccc</color>
+<color name="tip_subtitle">#ff80A3B0</color>
+<color name="app_behavior_timeline_time">#8080A3B0</color>
+<color name="app_behavior_timeline_dot">#ff80A3B0</color>
+<color name="protect_privacy_blue_80">#8080A3B0</color>
+<color name="pc_battery_statics_tile_value_color">#ff80A3B0</color>
+<color name="pc_battery_statics_tile_title_color">#ff80A3B0</color>
+<color name="pc_battery_statics_bar_title_color">#80cccccc</color>
+<color name="pc_battery_statics_chart_float_text_background">#80cccccc</color>
+
+<color name="pc_power_center_history_text">#ffffffff</color><!--the color of the text in the battery consumption graph (in perspective)-->
+<color name="white">#ffffffff</color><!--background under categories safe and font on buttons-->
+<color name="btn_rect_text_color">#ff80A3B0</color>
+<color name="na_black_bf">#bfff0000</color>
+<color name="firstaidkit_item_tv_title_textcolor">#80cccccc</color><!--text color of tables of contents in "search for problems"-->
+<color name="firstaidkit_item_tv_summary_textcolor">#ff80A3B0</color><!--color of the title text in "search for problems"-->
+<color name="first_aid_box_summary_textcolor">#ff80A3B0</color>
+<color name="first_aid_box_summary_textcolor2">#80cccccc</color>
+<color name="pc_item_tag_text_color">#ff80A3B0</color>
+<color name="pc_power_center_text">#4dffffff</color>
+<color name="separator_line_light_gray">#ffcccccc</color>
+
+<color name="pc_quick_btn_text_highlight">#ffcccccc</color>
+<color name="pc_battery_history_imei_color">#99cccccc</color>
+
+<color name="pc_result_item_text_battery_status">#e5cccccc</color>
+<color name="pc_result_item_header_text_color">#ffcccccc</color>
+<color name="pc_deep_settings_item_text_color">#ff80A3B0</color>
+<color name="pc_deep_settings_item_subtext_color">#80cccccc</color>
+
+<color name="high_light_green">#ff80A3B0</color>
+<color name="high_light_red">#8080A3B0</color>
+<color name="high_light_yellow">#ffcccccc</color>
+<color name="system_header_text_color">#8080A3B0</color>
+<color name="ListItemMainViewTextPrimary">#cc000000</color>
+<color name="ListItemMainViewTextSecondary">#99000000</color>
+<color name="ListItemMainViewTextRisk">#8080A3B0</color>
+<color name="notification_title_text_red_color">#8080A3B0</color>
+<color name="notification_title_text_color">#ff80A3B0</color>
+<color name="notification_title_divide_color">#33c0c0c0</color>
+<color name="textview_border_color_green">#ff80A3B0</color>
+<color name="action_button_color_n">#ffffffff</color>
+<color name="action_button_color_p">#ffffffff</color>
+<color name="action_button_color_disable">#ffbdbdbd</color>
+<color name="v_activity_main_scan_pre">#ff80A3B0</color>
+<color name="v_activity_main_text_antivirus">#ffcccccc</color>
+<color name="op_activity_main_number">#ffffffff</color>
+<color name="op_activity_main_unit">#ff80A3B0</color>
+<color name="op_activity_main_text_title">#ffffffff</color>
+<color name="op_activity_main_summary_text">#ff80A3B0</color>
+<color name="op_activity_main_view_deep">#ff80A3B0</color>
+<color name="op_activity_main_textview_support">#33000000</color>
+<color name="op_activity_package_app_name">#e5ffffff</color>
+<color name="op_activity_package_app_residual">#ffffffff</color>
+<color name="op_low_memory_notification_remoteview_action_button">#ffffffff</color>
+<color name="pm_activity_main_back">#ffffffff</color>
+<color name="red">#ff80A3B0</color>
+
+<color name="unlock_text_light">#ffcccccc</color>
+<color name="ads_close_text_color">#ffcccccc</color>
+<color name="dialog_message_color">#ffcccccc</color>
+<color name="na_white">#ffcccccc</color>
+
+<color name="na_bg_color_nomal">#ff212121</color>
+<color name="na_nd_text">#80cccccc</color>
+<color name="na_text_unchecked">#ff80A3B0</color>
+<color name="pc_power_center_consume_rank">#ff80A3B0</color>
+<color name="pc_power_center_consume_rank_pressed">#66c0c0c0</color>
+<color name="pc_power_center_battery_good">#ff80A3B0</color>
+<color name="pc_power_center_battery_warn">#8080A3B0</color>
+<color name="pc_power_center_battery_critical">#ffdf3535</color>
+<color name="pc_power_center_charing">#ff80A3B0</color>
+<color name="pc_power_center_screenon">#ff80A3B0</color>
+<color name="pc_power_center_gpson">#ff80A3B0</color>
+<color name="pc_power_center_wifi_running">#ff80A3B0</color>
+<color name="pc_power_center_wakelock">#ff80A3B0</color>
+
+<color name="pc_radio_button_text_press">#ffffffff</color>
+<color name="pc_radio_button_text_checked">#ffffffff</color>
+<color name="pc_activity_auto_task_title_bg">#003c3c42</color>
+<color name="title_ok_button_enable">#ffffffff</color>
+<color name="four_pices_card_item_title_textcolor">#ff80A3B0</color>
+<color name="six_pices_card_item_title_textcolor">#ff80A3B0</color>
+<color name="six_pices_card_item_summary_textcolor">#ffcccccc</color>
+<color name="nine_pices_card_item_colorful_title_textcolor">#ff80A3B0</color>
+<color name="nine_pices_card_item_gray_title_textcolor">#ff80A3B0</color>
+
+<color name="om_cpu_usage_circle_bg_color">#80212121</color>
+<color name="om_cpu_usage_circle_fg_normal">#ff80A3B0</color>
+<color name="om_cpu_usage_percent_text_color">#ff80A3B0</color>
+<color name="om_cpu_usage_summary_text_color">#e680A3B0</color>
+<color name="om_cpu_usage_circle_fg_warn">#ff80A3B0</color>
+<color name="om_cpu_usage_percent_text_color_warn">#ff80A3B0</color>
+<color name="om_cpu_usage_summary_text_color_warn">#cc80A3B0</color>
+<color name="applock_list_view_header">#ff212121</color>
+
+<color name="na_black_half">#ff80A3B0</color>
+<color name="pc_main_page_button_background">#ff212121</color>
+<color name="applock_grid_view_item_text_color">#ffcccccc</color>
+<color name="pinned_header_separator_line_light">#ff80A3B0</color> 
+<color name="pc_battery_history_chart_text_color">#ffcccccc</color>
+<color name="pc_main_one_key_save_button_background_normal">#ff80A3B0</color>
+<color name="pc_main_one_key_save_button_background_press">#ff80A3B0</color>
+<color name="pc_main_power_last_text_color">#80cccccc</color>
+<color name="pc_activity_main_number">#FF80A3B0</color>
+
+<color name="main_btn_action_bule">#ff80A3B0</color>
+<color name="na_remain_text_color_normal">#8080A3B0</color>
+<color name="qr_title_text_color">#ffcccccc</color>
+
+<color name="pc_battery_statics_text_title_gray">#80cccccc</color>
+<color name="pc_battery_statics_text_title_black">#8080A3B0</color>
+<color name="pc_battery_statics_rank_percent_color">#ff80A3B0</color>
+
+<color name="pc_power_center_text_true">#ffcccccc</color>
+<color name="pc_battery_statics_chart_text_color">#ffcccccc</color>
+<color name="pc_battery_statics_pannel_text_gray">#8080A3B0</color>
+
+<color name="pc_battery_detail_pop_window_text_normal">#ff80A3B0</color>
+<color name="pc_battery_detail_pop_window_text_title">#80cccccc</color>
+<color name="pc_battery_statics_hardware_blue">#ff80A3B0</color>
+<color name="pc_main_power_card_summary_text_color">#8080A3B0</color>
+<color name="card_summary_text_color">#8080A3B0</color>
+<color name="result_card_item_summary_color">#ff80A3B0</color>
+<color name="card_title_text_color">#80cccccc</color>
+<color name="blackalpha50">#8080A3B0</color>
+<color name="scan_item_summary_text_color">#8080A3B0</color>
+<color name="result_bottom_summary_text_color">#ff80A3B0</color>
+<color name="phone_manage_item_text_color">#8080A3B0</color>
+<color name="phone_manage_title_color">#ff80A3B0</color>
+<color name="phone_manage_summary_color">#8080A3B0</color>
+<color name="phone_manage_bm_tab_text_selected_color">#ff80A3B0</color>
+<color name="phone_manage_bm_tab_text_normal_color">#80cccccc</color>
+<color name="om_summary_text_color">#8080A3B0</color>
+<color name="system_permission_purpose">#ff80A3B0</color>
+<color name="system_permission_title">#8080A3B0</color>
+<color name="system_permission_desc">#ff80A3B0</color>
+<color name="optmizing_item_status">#ff80A3B0</color>
+<color name="optmizing_button_text">#ffcccccc</color>
+<color name="optmizing_item_progress">#ff80A3B0</color>
+<color name="color_black_trans_60">#8080A3B0</color>
+<color name="m_activity_main_score">#ffcccccc</color>
+
+<color name="app_manager_pressed_color">#ff80A3B0</color>
+<color name="app_manager_main_top_text_color">#8080A3B0</color>
+<color name="app_manager_line_bg_color">#00212121</color>
+<color name="app_manager_list_title_color">#ffcccccc</color>
+<color name="app_manager_list_summary_color">#ff80A3B0</color>
+<color name="app_manager_drop_pop_text_selected">#ffcccccc</color>
+<color name="app_manager_list_title_color">#8080A3B0</color>
+<color name="app_manager_sort_title_color">#8080A3B0</color>
+<color name="app_manager_detail_title_color">#ffcccccc</color>
+<color name="app_manager_version_color">#ff80A3B0</color>
+<color name="app_manager_list_summary_color">#ff80A3B0</color>
+<color name="app_manager_category_title_color">#ff80A3B0</color>
+<color name="app_lock_info_title">#8080A3B0</color>
+<color name="app_lock_info_subtitle">#ff80A3B0</color>
+<color name="applock_reset_header_text_color">#ffcccccc</color>
+<color name="ss_activity_main_textview_support">#ffcccccc</color>
+<color name="home_page_white_circle_bg">#00212121</color>
+<color name="m_activity_main_score">#ff80A3B0</color>
+<color name="home_page_score_start_color">#80cccccc</color>
+<color name="home_page_score_end_color">#ffcccccc</color>
+<color name="card_summary_text_color">#ffcccccc</color>
+<color name="na_nd_fragment_bg">#00212121</color>
+<color name="nd_step_dial_bg_color">#ff80A3B0</color>
+<color name="nd_speed_dial_color">#ffcccccc</color>
+<color name="nd_speed_dial_bg_color">#00212121</color>
+<color name="na_nd_space_num">#80cccccc</color>
+<color name="na_nd_space_text">#ff80A3B0</color>
+<color name="na_nd_text_sub">#ffcccccc</color>
+<color name="network_speed_tx_color">#8080A3B0</color>
+<color name="network_speed_rx_color">#ff80A3B0</color>
+
+<color name="pc_main_power_card_text_color">#80cccccc</color>
+<color name="pc_textview_color">#8080A3B0</color>
+<color name="result_process_title_color">#ff80A3B0</color>
+<color name="tab_divider_line_background">#00212121</color>
+
+<color name="pc_autotask_manage_head_title_color">#ff80A3B0</color>
+<color name="result_list_title_color">#ff80A3B0</color>
+
+<color name="result_checkbox_summry_color">#8080A3B0</color>
+<color name="pc_optimize_result_title_color">#ff80A3B0</color>
+<color name="pc_scanning_pause_button_normal_light_color">#ff80A3B0</color>
+<color name="pc_scanning_pause_button_normal_night_color">#ff80A3B0</color>
+<color name="pc_scanning_pause_button_pressed_light_color">#ffcccccc</color>
+<color name="pc_scanning_pause_button_pressed_night_color">#ffcccccc</color>
+<color name="pc_optimize_time_flag_stroke_color">#ffcccccc</color>
+<color name="na_button">#ff80A3B0</color>
+<color name="na_button_pressed">#ffcccccc</color>
+
+<color name="pc_scanning_result_fix_button_pressed_light_color">#ff80A3B0</color>
+<color name="pc_scanning_result_fix_button_normal_light_color">#ffcccccc</color>
+
+<color name="v_activity_main_number">#ff80A3B0</color>
+<color name="v_activity_main_scan_pre">#ffcccccc</color>
+<color name="v_activity_main_title_text">#ffcccccc</color>
+<color name="v_activity_main_summary_text">#ff80A3B0</color>
+
+<color name="main_btn_blue_bg_pressed">#ff80A3B0</color>
+<color name="pc_autotask_preference_summary_text_color">#ffcccccc</color>
+<color name="pc_preference_summary_text_enable_color">#ff80A3B0</color>
+<color name="pc_preference_summary_text_disable_color">#80cccccc</color>
+<color name="color_black_trans_40">#ff80A3B0</color>
+<color name="om_summary_text_color">#80cccccc</color>
+
+<color name="main_btn_blue_bg_yellow_pressed">#ff80A3B0</color>
+<color name="applock_guide_count_color">#ffcccccc</color>
+<color name="applock_guide_text_color">#ff80A3B0</color>
+
+<color name="main_indicator_normal_color">#ff8888ff</color>
+<color name="main_indicator_selected_color">#fff600ff</color>
+<color name="app_behavior_record_normal_color">#FFBBAEFF</color>
+<color name="app_behavior_record_desc_color">#FF01C299</color>
+
+<color name="app_manager_detail_title_color">#ffcccccc</color>
+<color name="app_behavior_record_header_color">#ffcccccc</color>
+<color name="app_manager_running_text_color">#ff80A3B0</color> 
+<color name="app_manager_running_border_color">#ffcccccc</color>
+<color name="ad_card_title">#80cccccc</color>
+<color name="ad_card_summary">#ffcccccc</color>
+<color name="card_separate_line_bg">#ff80A3B0</color>
+<color name="monitor_line_color">#8080A3B0</color>
+<color name="color_videobox_main_btn_txt">#ff80A3B0</color>
+<color name="color_videobox_main_btn_txt_disable">#ffcccccc</color>
+<color name="color_videobox_main_bg">#ff212121</color>
+<color name="color_vtb_main_item_divider">#ffcccccc</color>
+<color name="drawable_tint">#ff80A3B0</color>
+<color name="pc_main_card_item_background">#ff212121</color>
+<color name="pc_power_center_scan_result_spearatorbar">#8080A3B0</color>
+<color name="pc_deep_settings_item_result_summary_color">#ff80A3B0</color>
+<color name="pc_activity_main_scan_pre">#ffcccccc</color>
+<color name="miuix_preference_arrow_right_disable_fill_color_dark">#8080A3B0</color>
+<color name="miuix_preference_arrow_right_normal_fill_color_dark">#80cccccc</color>
+<color name="miuix_preference_arrow_right_pressed_fill_color_dark">#ff80A3B0</color>    
+<color name="miuix_preference_first_last_divider_line_dark">#00212121</color>
+
+           <!-- Setting item description color -->
+<color name="preference_primary_text_color_dark">#ffffffff</color>
+<color name="preference_secondary_text_color_disable_dark">#ffcccccc</color>
+<color name="preference_secondary_text_color_dark">#ff80A3B0</color>
+<color name="preference_secondary_text_color_pressed_dark">#ffcccccc</color>
+
+<color name="miuix_preference_list_primary_text_color_dark">#ffffffff</color>
+<color name="miuix_preference_list_primary_text_color_disable_dark">#ffcccccc</color>   	
+<color name="miuix_preference_list_secondary_text_color_normal_dark">#ff80A3B0</color>
+<color name="miuix_preference_list_secondary_text_color_pressed_dark">#8080A3B0</color>
+<color name="miuix_preference_list_secondary_text_color_disable_dark">#8080A3B0</color>
+<color name="miuix_preference_list_secondary_text_color_checked_dark">#ff80A3B0</color>
+<color name="miuix_preference_list_text_color_checked_dark">#ff80A3B0</color>
+
+<color name="miuix_preference_primary_text_color_dark">#ffffffff</color>
+<color name="miuix_preference_primary_text_color_disable_dark">#ffcccccc</color>
+<color name="miuix_preference_category_text_color_dark">#ff80A3B0</color>
+<color name="miuix_preference_secondary_text_color_checked_dark">#ff80A3B0</color>
+<color name="miuix_preference_secondary_text_color_dark">#ff80A3B0</color>
+<color name="miuix_preference_secondary_text_color_disable_dark">#ffcccccc</color>
+<color name="miuix_preference_secondary_text_color_checked_dark">#8080A3B0</color>
+<color name="miuix_preference_checked_text_dark">#ff80A3B0</color>
+
+<color name="miuix_compat_list_text_color_checked_dark">#ff80A3B0</color>
+<color name="miuix_compat_list_text_color_disable_dark">#ffcccccc</color>
+<color name="miuix_compat_list_text_color_normal_dark">#ffffffff</color>
+<color name="miuix_compat_list_text_color_pressed_dark">#ff80A3B0</color>
+<color name="miuix_compat_list_secondary_text_color_checked_dark">#8080A3B0</color>
+
+<color name="miuix_appcompat_preference_primary_text_color_dark">#ffffffff</color>
+<color name="miuix_appcompat_preference_primary_text_color_disable_dark">#ffcccccc</color>
+<color name="miuix_appcompat_preference_category_text_color_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_preference_secondary_text_color_checked_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_preference_secondary_text_color_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_preference_secondary_text_color_disable_dark">#ffcccccc</color>
+
+<color name="miuix_appcompat_list_text_color_checked_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_list_text_color_disable_dark">#ffcccccc</color>
+<color name="miuix_appcompat_list_text_color_normal_dark">#ffffffff</color>
+<color name="miuix_appcompat_list_text_color_pressed_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_list_secondary_text_color_checked_dark">#8080A3B0</color>
+
+<color name="pc_main_battery_view_background_higher_20">#4080A3B0</color>
+<color name="pc_result_card_title_color">#ff80A3B0</color>
+
+<color name="pm_setting_tab_normal">#80cccccc</color>
+<color name="pm_setting_tab_select">#ff80A3B0</color>
+
+<color name="app_manager_black_99">#8080A3B0</color>
+<color name="storage_main_entry_bottom">#ff212121</color>
+<color name="storage_actionbar_title1">#80cccccc</color>
+<color name="storage_deepclean_entry_hint_text">#ff80A3B0</color>
+<color name="storage_deepclean_entry_text">#80cccccc</color>
+<color name="storage_list_item_size">#ff80A3B0</color>
+<color name="storage_list_item_title">#80cccccc</color>
+<color name="storage_actionbar_summary1">#ff80A3B0</color>
+<color name="miuix_compat_integrated_spinner_text_color_dark">#ff80A3B0</color>
+<color name="pc_preference_settings_description_text_color">#ff80A3B0</color>
+<color name="result_small_button_text_color">#ffcccccc</color>
+<color name="na_nd_toolbar_title">#8080A3B0</color>
+<color name="na_nd_line">#8080A3B0</color>
+<color name="storage_list_item_desc">#ff80A3B0</color>
+<color name="storage_app_detail_name">#80cccccc</color>
+<color name="storage_app_detail_app_version">#ff80A3B0</color>
+<color name="storage_app_detail_size_label">#ff80A3B0</color>
+<color name="storage_app_detail_divider">#00070070</color>
+<color name="storage_app_detail_uninstall">#ffcccccc</color>
+<color name="storage_app_detail_uninstall_icon">#ff80A3B0</color>
+<color name="pm_setting_title_color">#ff80A3B0</color>
+<color name="pm_setting_summary_color">#8080A3B0</color>
+<color name="na_anim_blue">#ff80A3B0</color>
+
+<color name="pc_battery_statics_rank_summary_color">#8080A3B0</color>
+<color name="pp_icon_layout_status_bg_content_text_enable_color">#ff80A3B0</color>
+<color name="pp_icon_layout_status_bg_content_text_unable_color">#ffcccccc</color>
+<color name="color_gtb_svg_disable">#ffcccccc</color>
+<color name="color_gtb_svg_normal">#ffffffff</color>
+<color name="pp_permission_total_slide_text_color">#ff80A3B0</color>
+<color name="storage_category_background">#ff212121</color>
+<color name="perm_selected_light">#ff80A3B0</color>
+<color name="tx_perm_selected">#ff80A3B0</color>
+<color name="app_behavior_record_dialog_aim_color">#ffcccccc</color>
+<color name="app_behavior_record_dialog_desc_color">#ff80A3B0</color>
+<color name="pc_scan_button_ill_text_orange">#ff80A3B0</color>
+<color name="pc_battery_usedtime_summary_color">#80cccccc</color>
+<color name="pc_battery_main_summary_color">#ff80A3B0</color>
+<color name="pc_battery_statics_tile_value_color">#ffcccccc</color>
+<color name="pc_battery_statics_usedtime_title_color">#ff80A3B0</color>
+<color name="tab_sort_text">#80cccccc</color>
+<color name="pc_battery_detail_pop_window_text_normal">#ffffffff</color>
+<color name="pc_battery_detail_pop_window_text_select">#ff80A3B0</color>
+<color name="pc_battery_detail_pop_window_background_select_">#ff212121</color>
+<color name="pc_battery_statics_usedtime_title_color">#ff80A3B0</color>
+<color name="pc_scan_result_summary_red_color">#ff80A3B0</color>
+<color name="pc_scan_result_summary_black_color">#ffcccccc</color>
+<color name="pc_battery_card_subtitle_color">#ff80A3B0</color>
+<color name="cleaner_icon_text">#ffcccccc</color>
+
+<color name="applock_list_header_text">#80cccccc</color>
+<color name="na_traffic_dotted_line">#80cccccc</color>
+<color name="native_permission_icon_tint">#ffcccccc</color>
+<color name="pm_setting_chart_blue">#ffcccccc</color>
+<color name="storage_pie_line_8">#ff80A3B0</color>
+<color name="storage_cache_btn_middle">#80cccccc</color>
+<color name="storage_cache_btn_middle_pressed">#ff80A3B0</color>
+
+<color name="miuix_appcompat_integrated_spinner_text_color_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_dropdown_popup_backgroud_color_dark">#00000000</color>
+<color name="miuix_appcompat_spinner_item_normal_bg_color_dark">#ffffffff</color>
+<color name="miuix_appcompat_spinner_item_checked_bg_color_dark">#ff80A3B0</color>
+
+<color name="miuix_appcompat_sliding_button_bar_on_dark">#00000000</color>
+<color name="miuix_preference_right_text_color_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_edit_text_search_hint_color_dark">#8080A3B0</color>
+<color name="miuix_appcompat_edit_text_search_hint_color_light">#8080A3B0</color>
+<color name="miuix_appcompat_dialog_title_text_color_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_dialog_bg_color_dark">#ff212121</color>
+<color name="v_activity_main_text_antivirus">#ffffffff</color>
+<color name="v_activity_dialog">#ff80A3B0</color>
+<color name="miuix_appcompat_button_bg_primary_color_disabled_dark">#ffcccccc</color>
+<color name="miuix_appcompat_button_bg_primary_color_disabled_light">#ffcccccc</color>
+<color name="miuix_appcompat_button_bg_primary_color_normal_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_button_bg_primary_color_normal_light">#ff80A3B0</color>
+<color name="miuix_appcompat_button_text_color_guide_disabled_dark">#ffcccccc</color>
+<color name="miuix_appcompat_button_text_color_guide_disabled_light">#ffcccccc</color>
+<color name="miuix_appcompat_button_text_color_guide_normal_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_button_text_color_guide_normal_light">#ff80A3B0</color>
+<string name="status_bar_network_flow_content_not_setting">Arknights v12.5 | by @Mr.Njoll</string>
+<color name="miuix_appcompat_action_bar_tab_text_color_disable_dark">#ffcccccc</color>
+<color name="miuix_appcompat_action_bar_tab_text_color_disable_light">#ffcccccc</color>
+<color name="miuix_appcompat_action_bar_tab_text_color_normal_dark">#ffffffff</color>
+<color name="miuix_appcompat_action_bar_tab_text_color_normal_light">#ffffffff</color>
+<color name="miuix_appcompat_action_bar_tab_text_color_pressed_dark">#ffcccccc</color>
+<color name="miuix_appcompat_action_bar_tab_text_color_pressed_light">#ffcccccc</color>
+<color name="miuix_appcompat_action_bar_tab_text_color_selected_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_action_bar_tab_text_color_selected_light">#ff80A3B0</color>
+
+<color name="miuix_appcompat_action_bar_title_text_color_disabled_dark">#ffcccccc</color>
+<color name="miuix_appcompat_action_bar_title_text_color_disabled_light">#ffcccccc</color>
+<color name="miuix_appcompat_action_bar_subtitle_settings_text_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_action_bar_subtitle_text_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_action_bar_title_text_color_dark">#ff80A3B0</color>
+
+<color name="miuix_appcompat_blank_page_text_color_dark">#8080A3B0</color>
+<color name="miuix_appcompat_blank_page_text_color_light">#8080A3B0</color>
+<color name="miuix_appcompat_list_secondary_text_color_checked_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_list_secondary_text_color_checked_light">#ff80A3B0</color>
+<color name="miuix_appcompat_list_secondary_text_color_disable_dark">#ffcccccc</color>
+<color name="miuix_appcompat_list_secondary_text_color_disable_light">#ffcccccc</color>
+<color name="miuix_appcompat_list_secondary_text_color_normal_dark">#ffffffff</color>
+<color name="miuix_appcompat_list_secondary_text_color_normal_light">#ffffffff</color>
+<color name="miuix_appcompat_list_secondary_text_color_pressed_dark">#8080A3B0</color>
+<color name="miuix_appcompat_list_secondary_text_color_pressed_light">#8080A3B0</color>
+<color name="miuix_preference_primary_text_color_disable_dark">#80cccccc</color>
+<color name="miuix_preference_primary_text_color_disable_light">#80cccccc</color>
+<color name="install_confirm_question_blue_text">#ff80A3B0</color>
+<color name="pc_float_action_button">#00000000</color>
+<color name="pc_autotask_title_edit_view_hint_color">#ff80A3B0</color>
+<color name="miuix_preference_checkable_item_fill_color_checked_dark">#ff80A3B0</color>
+<color name="miuix_preference_checkable_item_fill_color_checked_light">#ff80A3B0</color>
+<color name="miuix_preference_checkable_item_fill_color_normal_dark">#ffffffff</color>
+<color name="miuix_preference_checkable_item_fill_color_normal_light">#ffffffff</color>
+<color name="miuix_appcompat_highlight_normal_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_highlight_normal_light">#ff80A3B0</color>
+<color name="miuix_preference_right_text_color_dark">#ffffffff</color>
+<color name="miuix_preference_right_text_color_light">#ffffffff</color>
+<color name="miuix_appcompat_button_bg_color_normal_dark">#ffffffff</color>
+<color name="miuix_appcompat_button_bg_color_normal_light">#ffffffff</color>
+<color name="miuix_appcompat_button_bg_color_pressed_dark">#ff80A3B0</color>
+<color name="miuix_appcompat_button_bg_color_pressed_light">#ff80A3B0</color>
+<color name="miuix_appcompat_button_text_color_dark">#FFFDC691</color>
+<color name="text_color_black_15">#8080A3B0</color>
+<color name="color_gtb_svg_disable">#80cccccc</color>
+<color name="color_gtb_svg_normal">#80cccccc</color>
+<color name="color_gtb_svg_pressed">#ff80A3B0</color>
+<color name="gtb_action_button_clear">#ff80A3B0</color>
+<color name="miuix_compat_spinner_text_color_dark">#ff80A3B0</color>
+<color name="miuix_compat_spinner_text_color_light">#ff80A3B0</color>
+<string name="status_bar_network_flow_exceed_content">@Oldman: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s>%3$s&lt;/font></string>
+<integer name="window_translucent_status" package="miui">2</integer>
+<color name="black">#00000000</color>
+<color name="blackalpha0">#00000000</color>
+<color name="miuix_preference_black">#00000000</color>
+<color name="@color/black" package="android">#00000000</color>
+<color name="@color/black" package="miui">#00000000</color>
+
+<color name="notification_title_divide_color">#00000000</color>
+<color name="whiltealpha100">#00000000</color>
+<color name="whiltealpha80">#00000000</color>
+<color name="white">#00000000</color>
+<color name="whitealpha60">#00000000</color>
+
+<color name="@color/white" package="android">#00000000</color>
+<color name="@color/white" package="miui">#00000000</color>
+<color name="miuix_preference_white">#00000000</color>
+</MIUI_Theme_Values>

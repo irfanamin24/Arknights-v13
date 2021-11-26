@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Icon version="1" designer="hhrb" frameRate="10" width="200" height="200" screenWidth="1080"> 
+  <VariableBinders> 
+    <ContentProviderBinder name="weather" uri="content://weather/weather" columns="city_name,temperature,temperature_range,description,weather_type" countName="hasweather"> 
+      <Variable name="weather_id" type="int" column="weather_type"/>  
+      <Variable name="weather_location" type="string" column="city_name"/>  
+      <Variable name="weather_temperature" type="string" column="temperature"/>  
+      <Variable name="weather_temperature_range" type="string" column="temperature_range"/>  
+      <Variable name="weather_description" type="string" column="description"/> 
+    </ContentProviderBinder> 
+  </VariableBinders>  
+  <Image x="100" y="100" align="center" alignV="center" src="com.miui.weather2.png"/>  
+  <Text x="100" align="center" y="100" alignV="center" size="30" color="#ffffff" textExp="@weather_temperature"/> 
+</Icon>

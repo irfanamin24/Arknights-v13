@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MIUI_Theme_Values template="LightTemplate">
+	
+<color name="action_bar_title_text_color_dark" package="miui">#FFFFFFFF</color><!--warna judul settings-->
+<color name="miuix_compat_integrated_spinner_text_color_dark">#FFFFFFFF</color>
+<color name="miuix_compat_list_text_color_normal_dark">#FFFFFFFF</color>
+<color name="miuix_compat_list_text_color_checked_dark">#FFFFFFFF</color>
+<color name="miuix_compat_list_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="miuix_preference_category_text_color_dark">#ff5b5b5b</color><!--warna teks judul kategori-->
+<color name="miuix_preference_primary_text_color_dark">#FFFFFFFF</color>
+<color name="miuix_preference_list_primary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="miuix_preference_primary_text_color_disable_dark">#ffacb9c1</color>
+<color name="miuix_preference_secondary_text_color_dark">#FFFFFFFF</color>
+<color name="miuix_preference_list_secondary_text_color_normal_dark">#FFFFFFFF</color>
+<color name="miuix_preference_secondary_text_color_disable_dark">#ffacb9c1</color>
+<color name="miuix_preference_list_secondary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="unread_icon">#FFFFFFFF</color>
+
+<color name="visual_guidance_layout_bg_color">#00000000</color><!--warna background setting tampilan mms-->
+<color name="visual_guidance_long_line_color">#FFFFFFFF</color><!--bottom stripe color-->
+<color name="visual_guidance_short_line_color">#FFFFFFFF</color><!--top strip color-->
+<color name="visual_guidance_right_arrow_color">#FFFFFFFF</color><!--ares icon color-->
+	
+<color name="black">#00000000</color>
+<color name="black" package="android">#00000000</color>
+<color name="black" package="miui">#00000000</color>
+<color name="miuix_preference_black">#00000000</color>
+
+</MIUI_Theme_Values>

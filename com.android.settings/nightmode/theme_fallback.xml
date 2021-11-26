@@ -1,0 +1,844 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+
+#BACK#
+<drawable name="action_bar_back_dark.9.png">imam_back.png</drawable>
+<drawable name="action_bar_back_normal_dark.9.png">imam_back.png</drawable>
+<drawable name="action_bar_back_pressed_dark.9.png">imam_back.png</drawable>
+<drawable name="action_bar_back_search_normal_dark.9.png">imam_back.png</drawable>
+<drawable name="action_bar_back_search_pressed_dark.9.png">imam_back.png</drawable>
+
+#ARROW RIGHT#
+<drawable name="miuix_appcompat_arrow_right.9.png">imam_arrow_right.png</drawable>
+<drawable name="miuix_appcompat_btn_inline_detail_normal_dark.9.png">imam_arrow_right.png</drawable>
+<drawable name="miuix_preference_arrow_right.9.png">imam_arrow_right.png</drawable>
+<drawable name="arrow_right_normal.9.png">imam_arrow_right.png</drawable>
+<drawable name="arrow_right_pressed.9.png">imam_arrow_right_dissable.png</drawable>
+<drawable name="arrow_right_dissable.9.png">imam_arrow_right.png</drawable>
+
+
+<drawable name="miuix_appcompat_action_bar_back_dark.9.png">imam_back.png</drawable>
+<drawable name="miuix_appcompat_action_bar_back_normal_dark.9.png">imam_back.png</drawable>
+<drawable name="miuix_appcompat_action_bar_back_pressed_dark.9.png">imam_back.png</drawable>
+<drawable name="miuix_appcompat_action_bar_back_search_normal_dark.9.png">imam_back.png</drawable>
+<drawable name="miuix_appcompat_action_bar_back_search_pressed_dark.9.png">imam_back.png</drawable>
+
+#CORNER#
+<drawable name="card_checked_corner.9.png">imam_corner_checked.9.png</drawable>
+<drawable name="card_view_corner.9.png">imam_corner.9.png</drawable>
+<drawable name="card_shape_corner.9.png">imam_corner.9.png</drawable>
+<drawable name="ringtone_shape_corner.9.png">imam_corner.9.png</drawable>
+
+<drawable name="choose_unlock_item_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="choose_unlock_item_bg_pressed.9.png">imam.9.png</drawable>
+
+<drawable name="list_item_background.9.png">t3.9.png</drawable>
+
+#BUTTON#
+<drawable name="miuix_appcompat_btn_bg_dialog_dark.9.png">imam_btn.9.png</drawable>
+<drawable name="miuix_appcompat_btn_bg_primary_dark.9.png">imam_btn.9.png</drawable>
+<drawable name="miuix_appcompat_btn_bg_warn_single_disable_dark.9.png">imam_btn.9.png</drawable>
+<drawable name="miuix_appcompat_btn_bg_warn_single_normal_dark.9.png">imam_btn.9.png</drawable>
+<drawable name="miuix_appcompat_btn_bg_warn_single_pressed_dark.9.png">imam_btn.9.png</drawable>
+
+<drawable name="bg_focus_btn_dark.9.png">imam_btn.9.png</drawable>
+<drawable name="bg_focus_btn_unclickable_dark.9.png">imam_btn.9.png</drawable>
+<drawable name="bg_screen_zoom_icons.9.png">imam_btn.9.png</drawable>
+<drawable name="borderlayout_bg.9.png">imam_btn.9.png</drawable>
+
+
+<!--miuix_preference_category-->
+<drawable name="miuix_preference_category_background.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_first.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_first_no_title.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_first_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_first_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_no_title.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_background_last.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_last_no_title.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_last_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_last_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_background_middle.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_middle_no_title.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_middle_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_middle_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_background_single.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_single_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_single_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_background_single_no_title.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_single_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_background_single_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_preference_category_bg_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_first_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_first_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_last_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_last_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_middle_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_middle_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_single_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_category_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_preference_category_bg_single_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_preference_first_last_divider_line_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="resource_divider.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_ic_preference_connected_bg.9.png">002.9.png</drawable>
+
+<!--miuix_preference_dark-->
+<drawable name="miuix_preference_item_background_dark.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_preference_first_item_bg_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_first_item_bg_dark_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_first_item_bg_dark_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_bg_dark.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_bg_dark_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_bg_dark_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_two_state_bg.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_two_state_bg_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_two_state_bg_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_first_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_preference_last_item_bg_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_last_item_bg_dark_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_last_item_bg_dark_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_bg_dark.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_bg_dark_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_bg_dark_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_two_state_bg.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_two_state_bg_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_two_state_bg_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_last_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_preference_middle_item_bg_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_middle_item_bg_dark_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_middle_item_bg_dark_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_bg_dark.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_bg_dark_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_bg_dark_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_two_state_bg.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_two_state_bg_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_two_state_bg_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_middle_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_preference_single_item_bg_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_single_item_bg_dark_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_single_item_bg_dark_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_bg_dark.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_bg_dark_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_bg_dark_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_two_state_bg.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_two_state_bg_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_two_state_bg_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_single_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+
+<!--miuix_preference_dark-->
+<drawable name="miuix_preference_item_background_dark.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_preference_first_item_bg_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_first_item_bg_dark_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_first_item_bg_dark_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_bg_dark.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_bg_dark_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_bg_dark_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_two_state_bg.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_two_state_bg_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_radio_two_state_bg_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_first_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_first_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_preference_last_item_bg_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_last_item_bg_dark_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_last_item_bg_dark_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_bg_dark.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_bg_dark_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_bg_dark_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_two_state_bg.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_two_state_bg_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_radio_two_state_bg_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_last_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_last_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_preference_middle_item_bg_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_middle_item_bg_dark_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_middle_item_bg_dark_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_bg_dark.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_bg_dark_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_bg_dark_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_two_state_bg.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_two_state_bg_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_radio_two_state_bg_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_middle_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_middle_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_preference_single_item_bg_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_single_item_bg_dark_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_single_item_bg_dark_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_bg_dark.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_bg_dark_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_bg_dark_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_two_state_bg.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_two_state_bg_normal.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_radio_two_state_bg_pressed.9.png">002.9.png</drawable>
+<drawable name="miuix_preference_single_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_preference_single_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+
+<drawable name="preference_image_click_bg.9.png">dialog.9.png</drawable>
+
+<!--action_bar-->
+<drawable name="search_mode_input_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="search_mode_input_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_bar_embeded_tabs_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_bar_embeded_tabs_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_bar_stack_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_bar_stack_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_bar_title_stack_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_bar_title_stack_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_bar_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_bar_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_mode_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="action_mode_bg_dark.9.png">action_bar.9.png</drawable>
+
+<drawable name="action_bar_split_bg_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_bar_split_bg_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_bar_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_bar_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_bar_split_bg_expanded_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_bar_split_bg_expanded_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_bar_split_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_bar_split_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_bg_dialog_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_bg_dialog_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_split_bg_dialog_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_split_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_split_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_split_bg_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="action_mode_split_bg_dark.9.png">imam_bottom.9.png</drawable>
+
+ <!--preference_category-->
+<drawable name="preference_category_background.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_first.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_first_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_first_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_first_no_title.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_first_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_first_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_no_title.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_background_no_title_dark.9.png">list.9.png</drawable>
+
+<drawable name="preference_category_bg_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_first_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_first_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_last_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_last_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_middle_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_middle_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_single_no_title_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="preference_category_bg_single_no_title_dark.9.png">list.9.png</drawable>
+
+<!--preference-->
+<drawable name="preference_first_item_bg_normal.9.png">t1.9.png</drawable>
+<drawable name="preference_first_item_bg_normal_dark.9.png">t1.9.png</drawable>
+<drawable name="preference_first_item_bg_normal_dark.9.png">t1.9.png</drawable>
+<drawable name="preference_first_item_bg_pressed.9.png">t2.9.png</drawable>
+<drawable name="preference_first_item_bg_pressed_dark.9.png">t2.9.png</drawable>
+<drawable name="preference_first_item_bg_pressed_dark.9.png">t2.9.png</drawable>
+<drawable name="preference_first_item_with_icon_bg_normal.9.png">t1.9.png</drawable>
+<drawable name="preference_first_item_with_icon_bg_normal_dark.9.png">t1.9.png</drawable>
+<drawable name="preference_first_item_with_icon_bg_normal_dark.9.png">t1.9.png</drawable>
+<drawable name="preference_first_item_with_icon_bg_pressed.9.png">t2.9.png</drawable>
+<drawable name="preference_first_item_with_icon_bg_pressed_dark.9.png">t2.9.png</drawable>
+<drawable name="preference_first_item_with_icon_bg_pressed_dark.9.png">t2.9.png</drawable>
+
+<drawable name="preference_item_bg.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_last_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+
+<drawable name="preference_middle_item_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_middle_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+
+<drawable name="preference_single_item_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="preference_single_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+
+<!--message_view-->
+<drawable name="message_view_bg_error_dark.9.png">dialog.9.png</drawable>
+<drawable name="message_view_bg_guide_dark.9.png">dialog.9.png</drawable>
+<drawable name="message_view_bg_warning_dark.9.png">dialog.9.png</drawable>
+
+<!--list_item_bg_dialog -->
+<drawable name="list_item_bg_dialog_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_first_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_last_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_middle_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_single_dark.9.png">list.9.png</drawable>
+
+<drawable name="list_item_bg_dialog_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_first_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_last_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_middle_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_single_dark.9.png">list.9.png</drawable>
+
+<drawable name="list_item_bg_dialog_first_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_last_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_middle_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_single_pressed_dark.9.png">list.9.png</drawable>
+
+<drawable name="list_item_bg_dialog_first_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_last_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_middle_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dialog_single_pressed_dark.9.png">list.9.png</drawable>
+
+<!--list_item in_bg-->
+<drawable name="list_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dark.9.png">list.9.png</drawable>
+	
+<drawable name="list_item_bg_normal_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_normal_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_selected_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_selected_dark.9.png">list.9.png</drawable>
+	
+<drawable name="list_item_bg_activated_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_activated_dark.9.png">list.9.png</drawable>
+
+<drawable name="list_item_overstepped_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_overstepped_pressed_dark.9.png">list.9.png</drawable>
+
+<!-- list_menu_bg -->
+<drawable name="list_menu_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="list_menu_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="list_menu_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="list_menu_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="list_menu_item_bg_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="list_menu_item_bg_pressed_dark.9.png">list.9.png</drawable>
+
+<!--list_item_bg_dropdown_popup -->
+<drawable name="list_item_bg_dropdown_popup_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dropdown_popup_dark.9.png">list.9.png</drawable>
+
+<drawable name="list_item_bg_dropdown_popup_first_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dropdown_popup_last_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dropdown_popup_middle_dark.9.png">list.9.png</drawable>
+<drawable name="list_item_bg_dropdown_popup_single_dark.9.png">list.9.png</drawable>
+
+<drawable name="list_item_bg_dropdown_popup_first_dark.9.png">list_item.9.png</drawable>
+<drawable name="list_item_bg_dropdown_popup_last_dark.9.png">list_item.9.png</drawable>
+<drawable name="list_item_bg_dropdown_popup_middle_dark.9.png">list_item.9.png</drawable>
+<drawable name="list_item_bg_dropdown_popup_single_dark.9.png">list_item.9.png</drawable>
+
+<!--list_popup -->
+<drawable name="list_popup_item_bg_dark.9.png">list_item.9.png</drawable>
+<drawable name="list_popup_item_bg_dark.9.png">list_item.9.png</drawable>
+
+ <!--list_small_item -->
+<drawable name="list_small_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="list_small_item_bg_dark.9.png">list.9.png</drawable>
+
+<!--list_view-->
+<drawable name="list_view_item_group_header_bg_dark.9.png">0_Category.9.png</drawable>
+<drawable name="list_view_item_group_header_bg_dark.9.png">0_Category.9.png</drawable>
+
+
+<!-- window bg -->
+<drawable name="v5_settings_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="v5_settings_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="v5_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="v5_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="settings_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="settings_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="window_bg_secondary_dark.9.png">imam_window.9.png</drawable>
+<drawable name="window_bg_secondary_dark.9.png">imam_window.9.png</drawable>
+<drawable name="window_content_mask_navigation.9.png">imam_window.9.png</drawable>
+<drawable name="window_content_mask_oled.9.png">imam_window.9.png</drawable>
+<drawable name="window_content_mask.9.png">search_bg.9.png</drawable>
+<drawable name="window_search_mask_navigation.9.png">window_search.9.png</drawable>
+<drawable name="window_search_mask.9.png">window_search.9.png</drawable>
+
+<!-- immersion_item_bg -->
+<drawable name="immersion_item_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_first_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_first_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_last_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_last_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_middle_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_middle_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_single_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_item_bg_single_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="context_menu_separate_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="context_menu_separate_item_bg_dark.9.png">list.9.png</drawable>
+
+<drawable name="immersion_list_top_overstepped_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_list_top_overstepped_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_list_top_overstepped_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_list_top_overstepped_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="immersion_window_footer_background_dark.9.png">list_item.9.png</drawable>
+<drawable name="immersion_window_footer_background_dark.9.png">list_item.9.png</drawable>
+<drawable name="immersion_window_bg_dark.9.png">list_item.9.png</drawable>
+<drawable name="immersion_window_bg_dark.9.png">list_item.9.png</drawable>
+
+ <!--Dialog boxes --> 
+<drawable name="dialog_title_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="dialog_title_bg_dark.9.png">dialog.9.png</drawable> 
+<drawable name="dialog_bg_dark.9.png">dialog.9.png</drawable>  
+<drawable name="dropdown_listview_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="arrow_popup_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="big_backgroud_def.9.png">dialog.9.png</drawable>
+<drawable name="dialog_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="dialog_bottom_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="dialog_full_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="dialog_full_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="dialog_middle_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="dialog_top_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="dropdown_listview_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="menu_dropdown_panel_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="menu_dropdown_panel_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="menu_hardkey_panel_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="menu_hardkey_panel_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="menu_submenu_background.9.png">dialog.9.png</drawable>
+<drawable name="notification_bg_low_normal.9.png">dialog.9.png</drawable>
+<drawable name="notification_bg_normal.9.png">19.9.png</drawable>
+<drawable name="notify_panel_notification_icon_bg.9.png">19.9.png</drawable>
+<drawable name="notify_panel_notification_icon_bg_tile.9.png">19.9.png</drawable>
+<drawable name="panel_background.9.png">19.9.png</drawable>
+<drawable name="panel_bg_holo_dark.9.png">19.9.png</drawable>
+<drawable name="panel_bg_holo_dark.9.png">19.9.png</drawable>
+<drawable name="popup_full_dark.9.png">dialog.9.png</drawable>
+<drawable name="popup_full_dark.9.png">dialog.9.png</drawable>
+<drawable name="small_backgroud_def.9.png">dialog.9.png</drawable>
+<drawable name="toast_frame.9.png">19.9.png</drawable>
+<drawable name="transportcontrol_bg.9.png">dialog.9.png</drawable>  
+<drawable name="dialog_background_material.9.png">dialog.9.png</drawable>
+
+<!--ic contact-->
+<drawable name="ic_contact_group_chat_photo.png">ic_contact_group.png</drawable>
+<drawable name="ic_contact_group_chat_photo_dark.png">ic_contact_group.png</drawable>
+<drawable name="ic_contact_group_photo.9.png">ic_contact_group.png</drawable>
+<drawable name="ic_contact_group_photo_dark.png">ic_contact_group.png</drawable>
+<drawable name="ic_contact_list_picture.png">ic_contact.png</drawable>
+<drawable name="ic_contact_list_picture_dark.png">ic_contact.png</drawable>
+<drawable name="ic_contact_list_picture_dark2.png">ic_contact.png</drawable>
+<drawable name="ic_contact_list_picture_dark3.png">ic_contact.png</drawable>
+<drawable name="ic_contact_list_picture_dark4.png">ic_contact.png</drawable>
+<drawable name="ic_contact_list_picture2.png">ic_contact.png</drawable>
+<drawable name="ic_contact_list_picture3.png">ic_contact.png</drawable>
+<drawable name="ic_contact_list_picture4.png">ic_contact.png</drawable>
+<drawable name="ic_contact_picture_dark.png">ic_contact.png</drawable>
+<drawable name="ic_contact_profile_photo.png">ic_contact.png</drawable>
+<drawable name="ic_contact_profile_photo_dark.png">ic_contact.png</drawable>
+<drawable name="ic_contact_public_account_photo.png">ic_contact.png</drawable>
+<drawable name="ic_contact_public_account_photo_dark.png">ic_contact.png</drawable>
+<drawable name="ic_contact_sp_picture.png">ic_contact.png</drawable>
+<drawable name="ic_contact_sp_picture_dark.png">ic_contact.png</drawable>
+<drawable name="ic_contact_unknown_picture.png">ic_contact.png</drawable>
+<drawable name="ic_contact_unknown_picture_dark.png">ic_contact.png</drawable>
+<drawable name="ic_quick_contact_picture.png">ic_contact.png</drawable>
+<drawable name="ic_quick_contact_picture_dark.png">ic_contact.png</drawable>
+
+<drawable name="miuix_appcompat_preference_image_click_bg.9.png">dialog.9.png</drawable>
+
+<!--action_bar-->
+<drawable name="miuix_appcompat_search_mode_input_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_search_mode_input_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_embeded_tabs_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_embeded_tabs_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_stack_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_stack_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_title_stack_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_title_stack_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_bg_dark.9.png">action_bar.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_bg_dark.9.png">action_bar.9.png</drawable>
+
+<drawable name="miuix_appcompat_action_bar_split_bg_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_split_bg_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_split_bg_expanded_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_split_bg_expanded_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_split_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_bar_split_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_bg_dialog_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_bg_dialog_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_split_bg_dialog_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_split_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_split_bg_navigation_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_split_bg_dark.9.png">imam_bottom.9.png</drawable>
+<drawable name="miuix_appcompat_action_mode_split_bg_dark.9.png">imam_bottom.9.png</drawable>
+
+ <!--miuix appcompat preference_category-->
+<drawable name="miuix_appcompat_preference_category_background.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_first.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_first_no_title.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_first_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_first_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_no_title.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_background_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_appcompat_preference_category_bg_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_first_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_first_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_last_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_last_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_middle_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_middle_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_single_no_title_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_preference_category_bg_single_no_title_dark.9.png">imam_no_title.9.png</drawable>
+
+<drawable name="miuix_appcompat_preference_first_last_divider_line_dark.9.png">imam_no_title.9.png</drawable>
+<drawable name="miuix_appcompat_resource_divider.9.png">imam_no_title.9.png</drawable>
+
+<!--miuix appcompat preference-->
+<drawable name="miuix_appcompat_preference_first_item_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_first_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_appcompat_preference_item_bg.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_last_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_appcompat_preference_middle_item_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_middle_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+
+<drawable name="miuix_appcompat_preference_single_item_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_with_icon_bg_normal.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_with_icon_bg_normal_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_with_icon_bg_pressed.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+<drawable name="miuix_appcompat_preference_single_item_with_icon_bg_pressed_dark.9.png">imam.9.png</drawable>
+
+<!--miuix appcompat message_view-->
+<drawable name="miuix_appcompat_message_view_bg_error_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_message_view_bg_guide_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_message_view_bg_warning_dark.9.png">dialog.9.png</drawable>
+
+<!--miuix appcompat list_item_bg_dialog -->
+<drawable name="miuix_appcompat_list_item_bg_dialog_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_single_dark.9.png">list.9.png</drawable>
+
+<drawable name="miuix_appcompat_list_item_bg_dialog_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_single_dark.9.png">list.9.png</drawable>
+
+<drawable name="miuix_appcompat_list_item_bg_dialog_first_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_last_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_middle_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_single_pressed_dark.9.png">list.9.png</drawable>
+
+<drawable name="miuix_appcompat_list_item_bg_dialog_first_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_last_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_middle_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dialog_single_pressed_dark.9.png">list.9.png</drawable>
+
+<!--miuix appcompat list_item in_bg-->
+<drawable name="miuix_appcompat_list_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dark.9.png">list.9.png</drawable>
+	
+<drawable name="miuix_appcompat_list_item_bg_normal_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_normal_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_selected_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_selected_dark.9.png">list.9.png</drawable>
+	
+<drawable name="miuix_appcompat_list_item_bg_activated_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_activated_dark.9.png">list.9.png</drawable>
+
+<drawable name="miuix_appcompat_list_item_overstepped_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_overstepped_pressed_dark.9.png">list.9.png</drawable>
+
+<!-- miuix appcompat list_menu_bg -->
+<drawable name="miuix_appcompat_list_menu_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_list_menu_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_list_menu_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_menu_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_menu_item_bg_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_menu_item_bg_pressed_dark.9.png">list.9.png</drawable>
+
+<!--miuix appcompat list_item_bg_dropdown_popup -->
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_dark.9.png">list.9.png</drawable>
+
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_single_dark.9.png">list.9.png</drawable>
+
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_first_dark.9.png">list_item.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_last_dark.9.png">list_item.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_middle_dark.9.png">list_item.9.png</drawable>
+<drawable name="miuix_appcompat_list_item_bg_dropdown_popup_single_dark.9.png">list_item.9.png</drawable>
+
+<!--miuix appcompat list_popup -->
+<drawable name="miuix_appcompat_list_popup_item_bg_dark.9.png">list_item.9.png</drawable>
+<drawable name="miuix_appcompat_list_popup_item_bg_dark.9.png">list_item.9.png</drawable>
+
+ <!--miuix appcompat list_small_item -->
+<drawable name="miuix_appcompat_list_small_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_list_small_item_bg_dark.9.png">list.9.png</drawable>
+
+<!--miuix appcompat list_view-->
+<drawable name="miuix_appcompat_list_view_item_group_header_bg_dark.9.png">0_Category.9.png</drawable>
+<drawable name="miuix_appcompat_list_view_item_group_header_bg_dark.9.png">0_Category.9.png</drawable>
+
+
+<!--miuix appcompat window bg -->
+<drawable name="miuix_appcomoat_v5_settings_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_v5_settings_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_v5_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_v5_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_settings_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_settings_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_window_bg_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_window_bg_secondary_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_window_bg_secondary_dark.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_window_content_mask_navigation.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_window_content_mask_oled.9.png">imam_window.9.png</drawable>
+<drawable name="miuix_appcompat_window_content_mask.9.png">search_bg.9.png</drawable>
+<drawable name="miuix_appcompat_window_search_mask_navigation.9.png">window_search.9.png</drawable>
+<drawable name="miuix_appcompat_window_search_mask.9.png">window_search.9.png</drawable>
+
+<!--miuix appcompat  immersion_item_bg -->
+<drawable name="miuix_appcompat_immersion_item_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_first_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_first_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_first_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_last_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_last_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_last_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_middle_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_middle_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_middle_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_single_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_single_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_item_bg_single_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_context_menu_separate_item_bg_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_context_menu_separate_item_bg_dark.9.png">list.9.png</drawable>
+
+<drawable name="miuix_appcompat_immersion_list_top_overstepped_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_list_top_overstepped_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_list_top_overstepped_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_list_top_overstepped_pressed_dark.9.png">list.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_window_footer_background_dark.9.png">list_item.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_window_footer_background_dark.9.png">list_item.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_window_bg_dark.9.png">list_item.9.png</drawable>
+<drawable name="miuix_appcompat_immersion_window_bg_dark.9.png">list_item.9.png</drawable>
+
+ <!--miuix appcompat Dialog boxes --> 
+<drawable name="miuix_appcompat_dialog_title_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_dialog_title_bg_dark.9.png">dialog.9.png</drawable> 
+<drawable name="miuix_appcompat_dialog_bg_dark.9.png">dialog.9.png</drawable>  
+<drawable name="miuix_appcompat_dropdown_listview_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_arrow_popup_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_big_backgroud_def.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_dialog_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_dialog_bottom_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_dialog_full_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_dialog_full_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_dialog_middle_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_dialog_top_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_dropdown_listview_bg_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_menu_dropdown_panel_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_menu_dropdown_panel_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_menu_hardkey_panel_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_menu_hardkey_panel_holo_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_menu_submenu_background.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_notification_bg_low_normal.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_notification_bg_normal.9.png">19.9.png</drawable>
+<drawable name="miuix_appcompat_notify_panel_notification_icon_bg.9.png">19.9.png</drawable>
+<drawable name="miuix_appcompat_notify_panel_notification_icon_bg_tile.9.png">19.9.png</drawable>
+<drawable name="miuix_appcompat_panel_background.9.png">19.9.png</drawable>
+<drawable name="miuix_appcompat_panel_bg_holo_dark.9.png">19.9.png</drawable>
+<drawable name="miuix_appcompat_panel_bg_holo_dark.9.png">19.9.png</drawable>
+<drawable name="miuix_appcompat_popup_full_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_popup_full_dark.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_small_backgroud_def.9.png">dialog.9.png</drawable>
+<drawable name="miuix_appcompat_toast_frame.9.png">19.9.png</drawable>
+<drawable name="miuix_appcompat_transportcontrol_bg.9.png">dialog.9.png</drawable>  
+<drawable name="miuix_appcompat_dialog_background_material.9.png">dialog.9.png</drawable>
+
+<!--miuix appcompat ic contact-->
+<drawable name="miuix_appcompat_ic_contact_group_chat_photo.png">ic_contact_group.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_group_chat_photo_dark.png">ic_contact_group.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_group_photo.9.png">ic_contact_group.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_group_photo_dark.png">ic_contact_group.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_list_picture.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_list_picture_dark.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_list_picture_dark2.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_list_picture_dark3.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_list_picture_dark4.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_list_picture2.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_list_picture3.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_list_picture4.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_picture_dark.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_profile_photo.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_profile_photo_dark.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_public_account_photo.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_public_account_photo_dark.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_sp_picture.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_sp_picture_dark.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_unknown_picture.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_contact_unknown_picture_dark.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_quick_contact_picture.png">ic_contact.png</drawable>
+<drawable name="miuix_appcompat_ic_quick_contact_picture_dark.png">ic_contact.png</drawable>
+
+
+<drawable name="preference_card_end_bg.9.png">account_pref2.9.png</drawable>
+<drawable name="preference_card_head_bg.9.png">account_pref.9.png</drawable>
+<drawable name="preference_system_app_new_end_bg.9.png">account_pref2.9.png</drawable>
+<drawable name="preference_system_app_new_head_bg.9.png">account_pref.9.png</drawable>
+
+</MIUI_Theme_Values>

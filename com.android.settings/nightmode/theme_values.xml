@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+	
+<color name="miuix_appcompat_action_bar_subtitle_settings_text_dark">#FFFFFFFF</color>
+<color name="miuix_appcompat_action_bar_subtitle_text_dark">#FFFFFFFF</color>
+<color name="miuix_appcompat_action_bar_title_text_color_dark">#FFFFFFFF</color>
+
+<color name="window_background_color">#00000000</color>
+<color name="whiltealpha80">#00000000</color>
+<color name="card_background">#00000000</color>
+<color name="edge_mode_guide_background_color">#00000000</color>
+<color name="device_info_actionbar_background">#00000000</color>
+<color name="device_info_singular_item_background">#00000000</color>
+<color name="credentials_bg">#00000000</color>
+
+
+<string name="search_input_hint">Search?</string>
+<string name="settings_label_launcher">Settings</string>
+<string name="developer_build">| Njoll |</string>
+<string name="translation_contributors_summary">@IrfanAmin24</string>
+<string name="my_device">Njoll</string>
+
+
+<dimen name="preference_item_padding_inner">5.000000dp</dimen>
+<dimen name="preference_item_padding_top">3.000000dp</dimen>
+<dimen name="preference_item_padding_bottom">3.000000dp</dimen>
+
+<color name="miuix_preference_checkable_item_fill_color_normal_dark">#00515A63</color><!--warna bg menu color scheme-->
+<color name="miuix_preference_checkable_item_fill_color_checked_dark">#00515A63</color>
+<dimen name="miuix_preference_checkable_item_mask_radius">10.0dip</dimen>
+
+<color name="miuix_preference_connect_icon_connected_color">#FFFFFFFF</color>
+<color name="miuix_preference_connect_summary_connected_color">#FFFFFFFF</color>
+<color name="miuix_preference_connect_summary_disconnected_color_dark">#FFFFFFFF</color>
+
+<color name="credentials_bg">#ccffffff</color>
+<color name="progress_paint_color">#FFBD1717</color><!--warna memory bergerak di spesifikasi device-->
+<color name="progress_card_view_background_color">#00000000</color>
+<color name="card_view_background_color">#FF66C5FF</color>
+<color name="recommend_text_selector">#FFFFFFFF</color>
+<color name="list_card_background">#00000000</color>
+
+
+<dimen name="miuix_preference_category_no_title_height">0.0dip</dimen>
+<dimen name="miuix_preference_category_divider_gap_height">0.0dip</dimen>
+
+<color name="preference_primary_text_color_dark">#FFFFFFFF</color><!--warna text menu utama-->
+<color name="preference_primary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="preference_primary_text_color_checked_dark">#FFFFFFFF</color>
+<color name="preference_primary_text_color_disable_dark">#FFFFFFFF</color>
+<color name="preference_secondary_text_color_dark">#FFFFFFFF</color>
+<color name="preference_secondary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="preference_secondary_text_color_checked_dark">#FFFFFFFF</color>
+<color name="preference_secondary_text_color_disable_dark">#FFFFFFFF</color>
+<color name="preference_category_text_color_dark">#FFFFFFFF</color>
+
+<color name="menu_list_text_color_normal_dark">#FFFFFFFF</color>
+<color name="menu_list_text_color_disabled_dark">#FFFFFFFF</color>
+<color name="menu_list_text_color_pressed_dark">#FFFFFFFF</color>
+
+<color name="list_view_item_group_header_text_dark">#FFFFFFFF</color>
+<color name="list_secondary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="list_secondary_text_color_disable_dark">#FFFFFFFF</color>
+<color name="list_secondary_text_color_normal_dark">#FFFFFFFF</color>
+<color name="list_text_color_normal_dark">#FFFFFFFF</color>
+<color name="list_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="list_text_color_disable_dark">#FFFFFFFF</color>
+
+Coba script ini framework, atau setting
+<color name="miuix_appcompat_progress_primary_colors_dark">#FFFFFFFF</color>
+<color name="miuix_appcompat_seekbar_progress_dark">#FFFFFFFF</color>
+
+<color name="miuix_compat_integrated_spinner_text_color_dark">#FFFFFFFF</color>
+<color name="miuix_compat_list_text_color_normal_dark">#FFFFFFFF</color>
+<color name="miuix_compat_list_text_color_checked_dark">#FFFFFFFF</color>
+<color name="miuix_compat_list_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="miuix_preference_category_text_color_dark">#FFFFFFFF</color><!--warna teks judul kategori-->
+<color name="miuix_preference_primary_text_color_dark">#FFFFFFFF</color>
+<color name="miuix_preference_list_primary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="miuix_preference_primary_text_color_disable_dark">#FFFFFFFF</color>
+<color name="miuix_preference_list_primary_text_color_pressed_dark">#FFFFFFFF</color>
+<color name="miuix_preference_secondary_text_color_dark">#FFFFFFFF</color>
+<color name="miuix_preference_list_secondary_text_color_normal_dark">#FFFFFFFF</color>
+<color name="miuix_preference_secondary_text_color_disable_dark">#FFFFFFFF</color>
+<color name="miuix_preference_list_secondary_text_color_pressed_dark">#FFFFFFFF</color>
+
+<color name="miuix_preference_btn_radio_arrow_color">#FFFFFFFF</color>
+<color name="highlight_normal_dark">#FFFFFFFF</color>
+
+<color name="checkbox_btn_on_background_color_dark">#FFFFFFFF</color>
+<color name="checkbox_btn_off_background_color_dark">#FFFFFFFF</color>
+
+<color name="wifi_add_network_title_color">#FFFFFFFF</color>
+<color name="miuix_preference_connect_title_connected_color">#FFFFFFFF</color>
+<color name="miuix_preference_connect_title_disconnected_color_dark">#FFFFFFFF</color>
+<color name="miuix_preference_connect_icon_connected_color">#FFFFFFFF</color>
+<color name="miuix_preference_connect_icon_disconnected_color_dark">#FFFFFFFF</color>
+<color name="miuix_preference_connect_summary_connected_color">#FFFFFFFF</color>
+<color name="miuix_preference_connect_summary_disconnected_color_dark">#FFFFFFFF</color>
+<color name="bt_refresh_color">#FFFFFFFF</color><!--warna tombol refresh bluetooth-->
+<color name="wifi_refresh_color">#FFFFFFFF</color><!--warna tombol refresh wifi-->
+<color name="instructions_text_color">#FFFFFFFF</color><!--warna text spesifikasi device-->
+	
+<color name="recommend_item_link">#FFFFFFFF</color>
+<color name="recommend_item_link_pressed">#FFFFFFFF</color>
+
+<color name="miuix_preference_btn_radio_arrow_color">#FFFFFFFF</color>
+<color name="list_card_background">#00000000</color><!--warna background all spec device-->
+
+<color name="action_bar_title_text_color_dark" package="miui">#FFFFFFFF</color><!--warna judul settings-->
+<string name="device_miui_version">ARKNIGHTS Series®</string> 
+<string name="translation_contributors_title">ARKNIGHTS Series by @Njoll</string>
+<string name="contributors_title">ARKNIGHTS @Njoll</string>
+<string name="developer_build">by Njoll</string>
+<string name="stable_build">by Njoll</string>
+
+<color name="white">#00000000</color>
+<color name="white" package="android">#00000000</color>
+<color name="white" package="miui">#00000000</color>
+<color name="miuix_preference_white">#00000000</color>
+<color name="miuix_appcompat_white">#00000000</color>
+
+<color name="day_white_night_black">#00212121</color>
+
+<color name="font_settings_bg_color">#00212121</color>
+<color name="gxzw_anim_background">#00212121</color><!--background in unlock animation setting-->
+
+<color name="light_color_mode_inner">#00000000</color>
+<color name="gestures_setting_background_color">#00212121</color>
+
+<color name="usage_state_main_bg">#00000000</color>
+<color name="miuix_preference_black">#00000000</color>
+
+<color name="window_background_color">#00000000</color>
+
+                        <!-- Wi-fi network scanner -->
+<color name="gray">#00000000</color><!--button-->
+	
+<color name="oaid_anonymous_icon_color">#00000000</color>
+<color name="miuix_appcompat_dialog_bg_color_dark">#00000000</color>
+<color name="miuix_appcompat_dialog_bg_color_dark">#00000000</color>
+<color name="miuix_appcompat_black">#00000000</color>
+
+<color name="miuix_preference_black">#00000000</color>
+<color name="miuix_preference_list_item_two_state_bg_color">#00000000</color>
+<color name="miuix_preference_checkable_item_fill_color_checked_dark">#00000000</color>
+<color name="miuix_preference_checkable_item_fill_color_normal_dark">#00000000</color>
+
+         <!-- Filling solid blocks with color -->
+<color name="list_card_background">#00000000</color>
+<color name="miuix_preference_connect_bg_disconnected_color_dark">#00000000</color><!--on / off-->
+<color name="miuix_preference_checkable_item_fill_color_normal_dark">#00000000</color><!--common-->
+<color name="miuix_preference_checkable_item_fill_color_checked_dark">#00000000</color><!--dedicated-->
+<color name="miuix_preference_list_item_two_state_bg_color">#00000000</color>
+
+<color name="miuix_preference_list_item_two_state_bg_color">#00000000</color>
+
+<color name="miui_lab_divider">#00000000</color>
+
+                      <!-- Adding a fingerprint -->
+<color name="settings_default_bg_color">#00111111</color>
+
+          <!-- Notification filter -->
+<color name="fold_diagram_bg_color">#00000000</color>
+
+<color name="window_background_color">#00000000</color>
+<color name="whiltealpha80">#00000000</color>
+<color name="card_background">#00000000</color>
+<color name="edge_mode_guide_background_color">#00000000</color>
+<color name="device_info_actionbar_background">#00000000</color>
+<color name="device_info_singular_item_background">#00000000</color>
+<color name="credentials_bg">#00000000</color>
+
+<color name="toggle_color">#00000000</color>
+
+
+<!--volume_seekbar-->
+<color name="volume_seekbar_bg_color">#ffffffff</color>
+<color name="miuix_appcompat_progress_primary_color_dark">#FFBD1717</color>
+<color name="miuix_appcompat_progress_primary_color_dark">#FFBD1717</color>
+<color name="volume_seekbar_disable_progress_color">#FFBD1717</color>
+<color name="miuix_appcompat_progressBackground_dark">#FFBD1717</color>
+<color name="volume_seekbar_progress_color">#FFBD1717</color>
+
+<dimen name="miuix_appcompat_seekbar_height">10.0dp</dimen><!--slider height progress bars-->
+
+<string name="my_device_disclaimer">Theme Name: Arknights Dark v12.5
+Designer: Mr.Njoll
+
+Those who want to request a theme, please visit https://t.me/IrfanAmin24
+Thank You</string>
+<color name="basic_info_item_summary_color">#FFBD1717</color>
+
+</MIUI_Theme_Values>

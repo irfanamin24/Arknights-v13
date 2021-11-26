@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--锁屏制作：设计师 阿倬-->
+
+<Lockscreen screenWidth="1080" frameRate="60" useVariableUpdater="DateTime.Day">
+<VariableBinders>
+<SensorBinder type="gravity" rate="60">
+<Variable name="gravity_x" index="0" />
+<Variable name="gravity_y" index="1" />
+<Variable name="gravity_z" index="2" />
+</SensorBinder>
+  <ContentProviderBinder uri="content://weather/actualWeatherData/1" columns="city_name,weather_type,aqilevel,description,temperature,temperature_range" countName="hasweather">
+    <Variable name="weather_location" type="string" column="city_name"/>
+    <Variable name="weather_id" type="int" column="weather_type"/>
+    <Variable name="weather_temperature" type="int" column="temperature"/>
+    <Variable name="weather_description" type="string" column="description"/>
+    <Variable name="weather_aqi" type="int" column="aqilevel"/>
+    <Trigger>
+      <!-- 空气质量 -->
+      <VariableCommand name="air_quality" expression="ifelse(#weather_aqi}=0**#weather_aqi{=50,'空气优',#weather_aqi}50**#weather_aqi{=100,'空气良好',#weather_aqi}100**#weather_aqi{=150,'轻度污染',#weather_aqi}150**#weather_aqi{=200,'中度污染',#weather_aqi}200**#weather_aqi{=300,'严重污染',#weather_aqi}300,'重度污染','获取信息异常')" type="string"/>
+      <!-- 天气类型简化版；可用于天气图标展示。例如：srcid="#weatherId" -->
+      <VariableCommand name="weatherId" expression="ifelse(#weather_id}25||#weather_id{0,0, (#weather_id}=4**#weather_id{=6||#weather_id}=8**#weather_id{=11||#weather_id==25),4,#weather_id}=13**#weather_id{=17,13 ,#weather_id}=18**#weather_id{=21||#weather_id==23,18,#weather_id)"/>
+    </Trigger>
+  </ContentProviderBinder>
+    <ContentProviderBinder columns="icon,title,content,time,info,subtext,key" countName="hasnotifications" name="data" uri="content://keyguard.notification/notifications">
+      <List name="notification_list"/>
+    </ContentProviderBinder>
+</VariableBinders>
+<Var name="w" expression="#screen_width" const="true"/>
+<Var name="h" expression="#screen_height" const="true"/>
+<Var expression="ifelse(#applied_light_wallpaper,&apos;#393f55&apos;,&apos;#ffffff&apos;)" name="font_color" type="string"/>
+<ExternalCommands>
+<Trigger action="resume">
+<Command target="music_go.animation" value="play(0,300)" condition="#music.music_state" />
+</Trigger>
+<Trigger action="pause">
+<VariableCommand expression="0" name="move1"/>
+<VariableCommand expression="0" name="move2"/>
+<AnimationCommand target="move_an" command="play"/>
+<VariableCommand name="wallpaper_now" expression="int(15*rand(#time))" persist="true" />
+<IntentCommand action="broadcast_set" broadcast="true">
+<Extra name="extra_wallpaper_now" type="number" expression="#wallpaper_now" />
+<Extra name="extra_wallpaper_mode" type="number" expression="#wallpaper_mode" />
+<Extra name="extra_my_tx" type="number" expression="#my_tx" />
+<Extra name="extra_my_zm" type="number" expression="#my_zm" />
+</IntentCommand>
+</Trigger>
+<Trigger action="finish" />
+</ExternalCommands>
+
+<Group visibility="#defaultScreen_x{1" x="#defaultScreen_x">
+<Wallpaper h="#h"/>
+<Group y="#unlocker.move_y">
+
+<!--时钟-->
+
+<Time x="60" y="300" align="left" alignV="center" src="time/time.png" space="15" formatExp="ifelse(#time_format,'HH:mm','h:mm')"/>
+
+<DateTime name="month1" x="23+#week.bmp_width+30" y="480" alpha="170" color="@font_color" size="140" align="left" alignV="center" space="0" format="EEE, dd MMM" fontFamily="mitype-light"/>
+<Image name="weather" src="weather/weather.png" align="left" alignV="center" x="55" y="630" srcid="#weatherId"/>
+<Text name="temp" x="55+#weather.bmp_width+20" y="630" color="@font_color" alpha="190" size="70" fontFamily="mipro-light" textExp="#weather_temperature+'°'" align="left" alignV="center"/>
+<Text x="60" y="730" alpha="255" color="#ffffffff" size="30" text="ARKNIGHTS By Njoll" align="left" alignV="center" fontFamily="mipro-normal"/>
+
+
+<!--音乐-->
+  <Var name="music_go">
+    <VariableAnimation loop="false" initPause="true">
+      <AniFrame value="0" time="0" />
+      <AniFrame value="1" time="300" />
+    </VariableAnimation>
+  </Var>
+  <Group alpha="-200+455*#music_go" visibility="ge(#music_go,0.05)">
+  <MusicControl align="center" autoShow="true" defAlbumCover="music/default_bg.png" enableLyric="true" h="255" name="music" updateLyricInterval="100" w="960" x="#screen_width/2" y="790">
+    <!-- 音乐窗口背景 -->
+    <Image x="0" y="0" src="music/music_bg.png" align="left" alpha="230"/>
+    <!-- 专辑图 -->
+    <Image x="45" y="30" h="195" w="195" align="left" src="music/default_bg.png"/>
+
+    <Image x="45" y="30" h="195" w="195" align="left" name="music_album_cover">
+      <Mask src="music/album_mask.png"/>
+    </Image>
+    <!-- 歌曲名、歌手名、播放时间 -->
+
+    <Text alignV="center" alpha="180" bold="true" color="#000000" marqueeSpeed="30" size="39" textExp="ifelse(strIsEmpty(@music.title),&apos;暂无音乐&apos;,@music.title)" w="960 - 255 - 100" x="255+30" y="255*0.27"/>
+    <Text alignV="center" alpha="150" color="#000000" marqueeSpeed="30" size="36" textExp="ifelse(strIsEmpty(@music.artist),&apos;--&apos;,@music.artist)" w="960 - 255 - 420" x="255+30" y="255*0.52"/>
+    <Text alignV="center" alpha="150" color="#000000" marqueeSpeed="30" size="33" textExp="ifelse(strIsEmpty(@music.title),&apos;--:--/--:--&apos;,formatDate(&apos;mm:ss / &apos;,#music.music_position)+formatDate(&apos;mm:ss&apos;,#music.music_duration))" w="960 - 255 - 420" x="255+30" y="255*0.75"/>
+    <!-- 按钮：上一曲、播放、暂停、下一曲 -->
+
+    <Button align="right" alignChildren="true" h="150" name="music_prev" w="120" x="960 - 268" y="255-150">
+      <Image align="center" alignV="center" src="music/prev.png" x="60" y="75"/>
+    </Button>
+    <Button align="right" alignChildren="true" h="150" name="music_play" w="120" x="960 - 140" y="255-150">
+      <Image align="center" alignV="center" src="music/play.png" x="60" y="75"/>
+    </Button>
+    <Button align="right" alignChildren="true" h="150" name="music_pause" w="120" x="960 - 148" y="255-150">
+      <Image align="center" alignV="center" src="music/pause.png" x="60" y="75"/>
+    </Button>
+    <Button align="right" alignChildren="true" h="150" name="music_next" w="120" x="960 - 28" y="255-150">
+      <Image align="center" alignV="center" src="music/next.png" x="60" y="75"/>
+    </Button>
+  </MusicControl>
+  </Group>
+
+<!--通知-->
+  <Group y="275*#music_go" visibility="#hasnotifications*1">
+  <Button h="#screen_height" visibility="#hasnotifications}0" w="1080" x="0" y="0">
+    <Triggers>
+      <Trigger action="up,cancel">
+        <VariableCommand expression="0" name="noticeDown"/>
+      </Trigger>
+    </Triggers>
+  </Button>
+
+<Var name="item_height" expression="220" const="true"/>
+<Var name="item_width" expression="#screen_width" const="true"/>
+<List name="notification_list" x="60" y="790" w="#item_width" maxHeight="4*#item_height" data="icon:bitmap,title:string,content:string,time:string,info:string,subtext:string,key:int" visibility="#hasnotifications*1">
+<Item x="0" y="0" w="#item_width" h="#item_height">
+<Button x="0" y="0" w="#item_width" h="#item_height" alignChildren="true">
+<Normal>
+<Image x="0" y="0" src="Notification_src/notice_bg.png" align="left" alpha="230"/>
+</Normal>
+<Pressed>
+<Image x="0" y="0" src="Notification_src/notice_bg.png" align="left" alpha="255"/>
+</Pressed>
+<Image name="notification_icon" x="40" y="40" w="120" h="120" align="left"/>
+<Image align="center" alignV="center" src="Notification_src/close.png" x="960-66" y="100"/>
+<Text x="200" y="40" size="35" w="460"  color="#000000" align="left" marqueeSpeed="30" alpha="240" name="notification_title"/>
+<Text x="760+50" y="40" size="35" color="#000000" align="right" alpha="200" name="notification_time"/>
+<Text x="200" y="105" size="35" color="#000000" w="550+50" h="40" align="left" marqueeSpeed="30"  alpha="200" name="notification_content"/>
+<Triggers>
+<Trigger action="down">
+<VariableCommand name="noticeDown" expression="1"/>
+</Trigger>
+<Trigger action="up">
+<IntentCommand action="com.miui.app.ExtraStatusBarManager.action_remove_keyguard_notification" broadcast="true">
+<Extra name="com.miui.app.ExtraStatusBarManager.extra_notification_key" type="int" expression="#notification_list.key"/>
+<Extra expression="#touch_begin_x { 960 - 132 + int(#screen_width-960)/2" name="com.miui.app.ExtraStatusBarManager.extra_notification_click" type="int"/>
+</IntentCommand>
+</Trigger>
+</Triggers>
+</Button>
+<Line x="0" y="0" y1="1" strokeColor="#33ffffff" weight="1" name="divider"/>
+</Item>
+<Rectangle x="#item_width" w="6" align="right" cornerRadius="3,6" strokeColor="#cccccccc" fillColor="#cccccccc" weight="1" name="scrollbar"/>
+<AttrDataBinders>
+<AttrDataBinder target="notification_icon" attr="bitmap" data="icon"/>
+<AttrDataBinder target="notification_title" attr="text" data="title"/>
+<AttrDataBinder target="notification_content" attr="text" data="content"/>
+<AttrDataBinder target="notification_time" attr="text" data="time"/>
+</AttrDataBinders>
+</List>
+</Group>
+
+</Group>
+
+
+
+
+<Button x="#screen_width" y="#h" align="right" alignV="bottom" w="400" h="400">
+<Normal>
+<Image x="#screen_width-60" y="#h-110" alpha="210" align="right" alignV="center" src="tab/icon_camera.png"/>
+<Text x="60" y="#h-110" align="left" alignV="center" color="#ffffff" alpha="210" size="40" textExp="(ifelse(eq(#battery_state,1),ifelse(eq(#ChargeSpeed,0),&apos;Njoll ® |&apos;,eq(#ChargeSpeed,1),&apos;Njoll ® |&apos;,eq(#ChargeSpeed,2),&apos;Njoll ® |&apos;,&apos;Njoll ® |&apos;),eq(#battery_state,2),&apos;Njoll ® |&apos;,eq(#battery_state,3),&apos;Njoll ® |&apos;,&apos;Njoll ® |&apos;))+&apos; &apos;+#battery_level+&apos;%&apos;"/>
+</Normal>
+<Pressed>
+<Image x="#screen_width-60" y="#h-110" alpha="110" align="right" alignV="center" src="tab/icon_camera.png"/>
+<Text x="60" y="#h-110" align="left" alignV="center" color="#ffffff" alpha="200" size="40" text="Swipe left to open camera"/>
+</Pressed>
+</Button>
+
+
+</Group>
+
+<Group visibility="#defaultScreen_x{0" x="1080+#defaultScreen_x">
+<Rectangle fillColor="#000000" h="#screen_height" w="1080"/>
+<Image x="#screen_width/2" y="#h-548" align="center" src="cam_bg.png"/>
+</Group>
+<Group visibility="#defaultScreen_y==0**#miCanderPluginInit==0">
+<Var expression="max(min(ifelse(#touch_x}#touch_begin_x,max(#touch_move-200,0),min(#touch_move+200,0))+#move_an,1080),-1080)" name="defaultScreen_x"/>
+<Var name="move_an">
+<VariableAnimation initPause="true" loop="false">
+<AniFrame easeType="QuintEaseOut" time="0" value="#move1"/>
+<AniFrame time="400" value="#move2"/>
+</VariableAnimation>
+</Var>
+<Button x="#screen_width" y="#h" h="400" w="400" align="right" alignV="bottom">
+<Triggers>
+<Trigger action="move">
+<VariableCommand expression="#touch_x-#touch_begin_x" name="touch_move"/>
+</Trigger>
+<Trigger action="up,cancel">
+<VariableCommand expression="#move2+ifelse(#touch_x}#touch_begin_x,max(#touch_move-100,0),min(#touch_move+100,0))" name="move1"/>
+<VariableCommand expression="ifelse(abs(#touch_x-#touch_begin_x)}200,max(min(#move2+ifelse(#touch_x}#touch_begin_x,1,-1)*1080,1080),-1080),#move2)" name="move2"/>
+<AnimationCommand target="move_an" command="play"/>
+<VariableCommand expression="0" name="touch_move"/>
+</Trigger>
+<Trigger action="up,cancel" condition="abs(#touch_x-#touch_begin_x)}200">
+<IntentCommand action="android.intent.action.MAIN" class="com.android.camera.Camera" condition="#touch_begin_x-#touch_x}200**#defaultScreen_x{0" package="com.android.camera">
+<Extra expression="1" name="ShowCameraWhenLocked" type="boolean"/>
+<Extra expression="1" name="StartActivityWhenLocked" type="boolean"/>
+</IntentCommand>
+</Trigger>
+</Triggers>
+</Button>
+</Group>
+
+<Group visibility="#noticeDown==0">
+<Slider name="unlocker" bounceInitSpeed="1500">
+<StartPoint x="0" y="0" w="1080" h="#h" />
+<EndPoint x="0" y="-#h" w="1080" h="#h-350">
+<Path x="0" y="0" tolerance="3000">
+<Position x="0" y="0" />
+<Position x="0" y="-#h" />
+</Path>
+<Trigger>
+<IntentCommand action="broadcast_set" broadcast="true">
+<Extra name="extra_wallpaper_now" type="number" expression="#wallpaper_now" />
+<Extra name="extra_wallpaper_mode" type="number" expression="#wallpaper_mode" />
+<Extra name="extra_my_tx" type="number" expression="#my_tx" />
+<Extra name="extra_my_zm" type="number" expression="#my_zm" />
+</IntentCommand>
+<VariableCommand name="wallpaper_now" expression="int(15*rand(#time))" persist="true" />
+<ExternCommand command="unlock" />
+</Trigger>
+</EndPoint>
+</Slider>
+</Group>
+<Button x="0" y="0" w="1080" h="#h" />
+</Lockscreen>

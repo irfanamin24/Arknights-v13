@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+     
+<drawable name="ic_sysbar_bg_darkmode.9.png">bg_navigation.png</drawable>
+<drawable name="ic_sysbar_bg_darkmode_cts.9.png">bg_navigation.png</drawable>
+<drawable name="ic_sysbar_bg_land_darkmode.9.png">bg_navigation.png</drawable>
+<drawable name="ic_sysbar_bg_land_darkmode_cts.9.png">bg_navigation.png</drawable>
+
+<drawable name="ic_sysbar_bg_darkmode_cts.9.png">bg_navigation.png</drawable>
+<drawable name="ic_sysbar_bg_darkmode.9.png">bg_navigation.png</drawable>
+<drawable name="ic_sysbar_bg_land_darkmode_cts.9.png">bg_navigation.png</drawable>
+<drawable name="ic_sysbar_bg_land_darkmode.9.png">bg_navigation.png</drawable>
+<drawable name="ic_sysbar_bg_land.9.png">bg_navigation.png</drawable>
+<drawable name="ic_sysbar_bg.9.png">bg_navigation.png</drawable>
+
+
+#BIG_QS#
+<drawable name="ic_qs_big_tile_bg_0.9.png">qs_big_on.png</drawable>
+<drawable name="ic_qs_big_tile_bg_1.9.png">qs_big_on.png</drawable>
+<drawable name="ic_qs_big_tile_bg_2.9.png">qs_big_on.png</drawable>
+<drawable name="ic_qs_big_tile_bg_3.9.png">qs_big_on.png</drawable>
+<drawable name="ic_qs_big_tile_bg_4.9.png">qs_big_on.png</drawable>
+
+<drawable name="ic_qs_big_tile_bg_inactive_0.9.png">qs_big_off.png</drawable>
+<drawable name="ic_qs_big_tile_bg_inactive_1.9.png">qs_big_off.png</drawable>
+<drawable name="ic_qs_big_tile_bg_inactive_2.9.png">qs_big_off.png</drawable>
+<drawable name="ic_qs_big_tile_bg_inactive_3.9.png">qs_big_off.png</drawable>
+<drawable name="ic_qs_big_tile_bg_inactive_4.9.png">qs_big_off.png</drawable>
+
+<drawable name="ic_qs_big_tile_bg_unavailable_0.9.png">qs_big_disable.png</drawable>
+<drawable name="ic_qs_big_tile_bg_unavailable_1.9.png">qs_big_disable.png</drawable>
+<drawable name="ic_qs_big_tile_bg_unavailable_2.9.png">qs_big_disable.png</drawable>
+<drawable name="ic_qs_big_tile_bg_unavailable_3.9.png">qs_big_disable.png</drawable>
+<drawable name="ic_qs_big_tile_bg_unavailable_4.9.png">qs_big_disable.png</drawable>
+
+
+#CONTROL_CUSTOMIZER_BG#
+<drawable name="qs_control_customizer_others_bg.9.png">imam_qs_detail_bg.9.png</drawable>
+<drawable name="qs_control_detail_bg.9.png">imam_qs_detail_bg.9.png</drawable>
+<drawable name="qs_customizer_bg.9.png">imam_qs_detail_bg.9.png</drawable>
+<drawable name="qs_detail_bg.9.png">imam_qs_detail_bg.9.png</drawable>
+<drawable name="qs_detail_list_bg.9.png">imam_qs_detail_bg.9.png</drawable>
+
+#NOTIFICATION#
+<drawable name="notification_n.9.png">imam_notif.9.png</drawable>
+<drawable name="notification_panel_bg.9.png">imam_notif.9.png</drawable>
+<drawable name="notification_item_bg.9.png">imam_notif.9.png</drawable>
+
+
+</MIUI_Theme_Values>

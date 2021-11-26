@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<dimen name="notch_settings_button_margin">0.0dip</dimen>
+<dimen name="notch_expanded_clock_size">40.0dp</dimen>
+<color name="default_theme_background_color">#FF1A1B1F</color>
+<bool name="expanded_status_bar_darkmode">false</bool>
+<dimen name="qs_brightness_top_margin">0.0dip</dimen>
+<dimen name="expanded_notification_header_bottom">10.0dp</dimen>
+<dimen name="expanded_notification_header_start">0.0dip</dimen>
+<dimen name="expanded_notification_weather_temperature_right">0.0dip</dimen>
+<string name="fmt_time_24hour_minute" package="miui">HH:mm</string>
+<color name="qs_brightness_progress_color">#ff222222</color>
+<string name="status_bar_clock_date_format">EEE, dd MMM yy</string>
+<integer name="quick_settings_num_columns">5</integer>
+<color name="status_bar_battery_digit_textColor_darkmode">#ff151515</color>
+<dimen name="qs_page_indicator_dot_bottom_margin">15.0dip</dimen>
+<dimen name="qs_tile_padding_bottom">0.0dip</dimen>
+<dimen name="qs_tile_icon_bg_size">53.0dip</dimen>
+<dimen name="miui_volume_ringer_text_size">11.0dip</dimen>
+<dimen name="status_bar_clock_size">11.0dp</dimen>
+<dimen name="statusbar_battery_size">11.00000dp</dimen>
+<dimen name="recents_task_view_rounded_corners_radius">22.0dp</dimen>
+<dimen name="single_page_toggles_space">1.0dip</dimen>
+<string name="status_bar_settings_battery_meter_format">%d</string>
+<dimen name="toggle_text_size">10.000000sp</dimen>
+<dimen name="expanded_date_size">10.000000dp</dimen>
+<dimen name="panel_content_corner_radius">10.0dip</dimen>
+<dimen name="statusbar_battery_digit_size">6.0dp</dimen>
+<dimen name="statusbar_battery_digit_padding_start">0.0dip</dimen>
+<dimen name="statusbar_battery_percent_margin_start">0.0dip</dimen>
+<dimen name="statusbar_carrier_size">10.0dp</dimen>
+<dimen name="expanded_weather_size">0.0dp</dimen>
+<color name="qs_brightness_background_color">#FFFEFEFE</color>
+<dimen name="qs_tile_icon_size">24dp</dimen>
+<color name="qs_divider_color">#00000000</color>
+<string name="status_bar_clock_date_format_12">EEEE, dd MMMM yyyy</string>
+<string name="status_bar_clock_date_format">EEEE, dd MMMM yyyy</string>
+<dimen name="qs_divider_size">0.0dip</dimen>
+<dimen name="panel_content_margin">10.0dip</dimen>
+<dimen name="notification_stack_scroller_bg_radius">10.0dip</dimen>
+<color name="qs_page_indicator_dot_color">#00000000</color>
+<dimen name="qs_panel_expand_indicator_stroke_width">1.5dip</dimen>
+<dimen name="qs_panel_expand_indicator_height">10.0dip</dimen>
+<dimen name="qs_panel_expand_indicator_width">0.0dip</dimen>
+<color name="secondary_text_default_material_dark">#FF0672BB</color>
+<color name="notification_media_action_color">#FF0672BB</color>
+<color name="remote_input_hint">#FF0672BB</color>
+<color name="notification_mini_view_icon_tint_color">#FF0672BB</color>
+<color name="notification_in_call_caller_info_color">#ff151515</color>
+<color name="notification_in_call_caller_name_color">#FF0672BB</color>
+<color name="remote_input_selection_highlight">#FF0672BB</color>
+<color name="remote_input_text">#ff151515</color>
+<color name="remote_input_text_enabled">#FF0672BB</color>
+<color name="notification_panel_background">#ffffffff</color>
+<dimen name="miui_volume_bg_radius">10.0dip</dimen>
+<color name="miui_volume_bg_color">#ffeeeeee</color>
+<color name="miui_volume_disabled_color">#ffeeeeee</color>
+<color name="miui_volume_text_color">#FF0672BB</color>
+<color name="miui_volume_tint_dark">#FF0672BB</color>
+<color name="miui_volume_dragging_idle_color">#FF0672BB</color>
+<color name="miui_volume_tint_dark">#ffFF0672BB</color>
+<dimen name="qs_brightness_icon_margin">25.0dip</dimen>
+<dimen name="qs_data_usage_divider_margin_horizontal">27.0dip</dimen>
+<color name="qs_footer_data_usage_text_color">#00000000</color>
+<color name="qs_panel_expand_indicator_color">#ff151515</color>
+<dimen name="statusbar_padding_end">10.0dip</dimen>
+<dimen name="statusbar_padding_start">10.0dip</dimen>
+
+<dimen name="notification_row_min_height">72.0dp</dimen>
+<dimen name="notification_height">72.0dp</dimen>
+<dimen name="notification_text_size">12.5sp</dimen>
+<dimen name="notification_title_text_size">12.5sp</dimen>
+<dimen name="notification_subtext_size">12.5sp</dimen>
+
+<dimen name="qs_control_brightness_dialog_height">50dp</dimen>
+<dimen name="qs_panel_expand_indicator_height">-90dp</dimen>
+<dimen name="qs_panel_expand_indicator_width">-90dp</dimen>
+<dimen name="qs_brightness_top_margin">0dp</dimen>
+<dimen name="statusbar_battery_digit_size">12.000000dp</dimen>
+
+
+<color name="qs_tile_icon_enabled_color">#FFFFFFFF</color>
+<color name="qs_tile_icon_disabled_color">#FF545454</color>
+<color name="qs_tile_app_label_text_color">#FFFFFFFF</color>
+<color name="qs_tile_label_text_color">#FFFFFFFF</color>
+<color name="qs_tile_label_text_color_secondary">#FFFFFFFF</color>
+
+<dimen name="qs_brightness_dialog_height">50.0dp</dimen>
+
+<integer name="window_translucent_status" package="miui">2</integer>
+    
+       ### QUICKSETTINGS PADDING ###
+   
+<dimen name="qs_quick_panel_content_padding_top">dp</dimen>
+
+       ### CONTROL CENTER ###
+  
+<!-- wifi bluetooth -->
+<color name="qs_control_big_tile_blue_bg">#30000000</color>
+
+<!-- data -->
+<color name="qs_control_big_tile_green_bg">#30000000</color>
+
+<!-- warna teks 4 biji di atas -->
+<color name="qs_control_big_tile_sub_title_color">#66000000</color>
+<color name="qs_control_big_tile_sub_title_color_off">#66000000</color>
+<color name="qs_control_big_tile_title_color">#FFFFFFFF</color>
+<color name="qs_control_big_tile_title_color_off">#FFFFFFFF</color>
+<color name="qs_control_expand_tile_title_color">#FFFFFFFF</color>
+<color name="qs_control_expand_tile_sub_title_color">#FFFFFFFF</color>
+
+
+<!-- icon toggle -->
+<color name="cc_qs_tile_icon_color">#FFFFFFFF</color>
+<color name="cc_qs_tile_icon_color_off">#FF545454</color>
+<color name="qs_control_big_tile_title_color_off">#FFFFFFFF</color>
+<color name="qs_control_big_tile_sub_title_color_off">#FFFFFFFF</color>
+<color name="cc_qs_tile_icon_bg_color_active_auto_brightness">#FFFFFFFF</color>
+<color name="qs_control_tile_icon_unavailable_color">#50000000</color>
+
+<color name="qs_control_tile_icon_enable_color">#FFFFFFFF</color>
+<color name="qs_control_tile_icon_unavailable_color">#FF000000</color>
+<color name="qs_control_tile_label_text_color">#FFFFFFFF</color>
+
+  <color name="qs_tile_icon_bg_enabled_color">#d4263167</color>
+  <color name="qs_brightness_progress_color"><color name="qs_brightness_progress_color">#353F63</color></color>
+  <color name="recent_dock_view_background_color_pressed">#d4263167</color>
+  <color name="sliding_btn_slider_off_normal_color_dark" package="miui">#d2012d6c</color>
+  <color name="fold_dividing_line_color">#00000000</color>
+  <color name="notification_media_action_color">#ff999999</color>
+  
+<color name="qs_control_big_tile_bg">#FFFFFFFF</color>
+<color name="qs_control_big_tile_off_bg">#20000000</color>
+<color name="qs_control_big_tile_inactive_bg">#20000000</color>
+<color name="qs_control_big_tile_disabled_bg">#20000000</color>
+<color name="qs_control_big_tile_white_bg">#20000000</color>
+<color name="qs_control_tile_icon_active_color">#FFFFFFFF</color>
+<color name="qs_control_tile_icon_enabled_color">#FFFFFFFF</color>
+<color name="qs_control_tile_icon_disabled_color">#20000000</color>
+
+
+    ======CLOCK_DATE_WEATHER_COLOR====
+
+<color name="qs_control_header_clock_color">#FFFFFFFF</color>
+<color name="qs_control_header_date_color">#FFFFFFFF</color>
+
+<color name="notification_panel_date_color">#FFFFFFFF</color>
+<color name="notification_panel_manage_color">#FFFFFFFF</color>
+<color name="notification_panel_time_color">#FFFFFFFF</color>
+
+
+<color name="clock_text_color">#FFFFFFFF</color>
+<color name="status_bar_expanded_clock">#FFFFFFFF</color>
+<color name="status_bar_expanded_account">#FFFFFFFF</color>
+<color name="status_bar_expanded_color">#FFFFFFFF</color>
+<color name="status_bar_expanded_content">#FFFFFFFF</color>
+<color name="status_bar_expanded_date">#FFFFFFFF</color>
+<color name="status_bar_expanded_search">#FFFFFFFF</color>
+<color name="status_bar_expanded_title">#FFFFFFFF</color>
+<color name="status_bar_expanded_weather">#FFFFFFFF</color>
+<color name="status_bar_expanded_weather_publish_time">#FFFFFFFF</color>
+
+
+<dimen name="notch_expanded_header_height">110.0dip</dimen> Clock Header Dimen
+<dimen name="notification_panel_header_height">120.0dip</dimen> Notif Control Center Dimen
+
+<dimen name="qs_control_center_header_paddingTop">60.0dip</dimen>
+
+<dimen name="quick_setting_header_big_time_text_size">40.0dip</dimen> Clock Header Size
+
+
+#### NAVBAR GETSURE ####
+
+<color name="navigation_handle_dark_color">#FFF10000</color>
+<color name="navigation_handle_dark_color">#FFF10000</color>
+
+
+#LABEL CONTROL CENTER TEXT#
+
+<color name="qs_control_header_tiles_title_color">#FFFFFFFF</color><!--warna teks custom label control center-->
+
+#SIGNAL TO 5G#
+
+<dimen name="status_bar_mobile_type_margin">0px</dimen>
+<dimen name="statusbar_signal_size">6dp</dimen>
+<string-array name="data_network_type_name_default">
+  <item></item>
+  <item>G</item>
+  <item>3G</item>
+  <item>h+</item>
+  <item>4G</item>
+  <item>4G+</item>
+  <item>5G</item>
+  <item>5G</item>
+  <item></item>
+  <item>5G</item>
+  <item>5G</item>
+</string-array>
+
+
+
+</MIUI_Theme_Values>
